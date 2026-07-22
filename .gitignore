@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Model checkpoints
+*.ckpt
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Hugging Face cache (optional)
+.cache/
+
+/posts.xlsx
+others/emoji_and_nan_rows.txt
+others/emoji_only_and_nan_rows.txt
+
+preprocess/lid.176.bin
+project-*.json

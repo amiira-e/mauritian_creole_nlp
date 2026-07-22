@@ -1,0 +1,11 @@
+google-cloud-translate
+tqdm==4.67.1
+torch>=2.2
+transformers>=4.45
+datasets>=2.20
+evaluate>=0.4
+accelerate>=0.34
+
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.5
