@@ -1,14 +1,18 @@
 google-cloud-translate
 tqdm==4.67.1
+ipykernel
+jupyter
+
 torch>=2.2
 transformers>=4.45
 datasets>=2.20
 evaluate>=0.4
 accelerate>=0.34
 
-numpy>=1.26
+numpy>=2.4.6
+pandas>=2.2
 matplotlib>=3.8
 scikit-learn>=1.5
+
 jiwer
 sacrebleu
-scikit-learn
