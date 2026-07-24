@@ -38,3 +38,11 @@ others/emoji_only_and_nan_rows.txt
 
 preprocess/lid.176.bin
 project-*.json
+
+research_question_1/*.jsonl
+research_question_1/*.parquet
+
+research_question_1/morisien-mt-en-cr.jsonl
+research_question_1/kreol-mt.parquet
+
+data/data_versions/raw_fb_data.json
