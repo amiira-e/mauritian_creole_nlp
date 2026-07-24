@@ -45,3 +45,4 @@ research_question_1/kreol-mt.parquet
 
 data/data_versions/raw_fb_data.json
 data_preparation/*.bin
+data_preparation/lid.176.bin
