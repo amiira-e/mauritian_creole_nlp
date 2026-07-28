@@ -16,3 +16,4 @@ scikit-learn>=1.5
 
 jiwer
 sacrebleu
+datasets

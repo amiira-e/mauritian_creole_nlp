@@ -39,9 +39,11 @@ project-*.json
 
 research_question_1/*.jsonl
 research_question_1/*.parquet
+research_question_1/*.jsonl
 
 research_question_1/morisien-mt-en-cr.jsonl
 research_question_1/kreol-mt.parquet
+research_question_1/mfe_Latn_flores.jsonl
 
 data/data_versions/raw_fb_data.json
 data_preparation/*.bin
