@@ -48,3 +48,5 @@ research_question_1/mfe_Latn_flores.jsonl
 data/data_versions/raw_fb_data.json
 data_preparation/*.bin
 data_preparation/lid.176.bin
+
+notebooks/ByT5/results/
