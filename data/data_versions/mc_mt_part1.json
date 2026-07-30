@@ -17,17 +17,17 @@
   {
     "id": 9509,
     "input": "Chapeau a toi mo frere mais parfois sa kalite dimunn bar bar lamem ki fer nu crise monte.... Karma pu fer so travail frere, quitte tu dans la main Bondieu.",
-    "translated": "Hats off to you my brother but sometimes this kind of barbaric people make us angry .... Karma will do its job brother, leave everything in the hands of God."
+    "translated": "Hats off to you my brother but sometimes this kind of barbaric people make us angry.... Karma will do its job brother, leave everything in the hands of God."
   },
   {
     "id": 402,
-    "input": "Madam la pena nom seki linn fer se tre malonet, lezot dimunn kapav fer pareil, bizin met 1 frein tutswit.",
-    "translated": "The woman has no name what she did is very dishonest, other people can do the same, need to put a brake immediately."
+    "input": "Madam la pena nom? Seki linn fer se tre malonet, lezot dimunn kapav fer pareil, bizin met 1 frein tutswit.",
+    "translated": "The woman has no name? What she did is very dishonest, other people can do the same, need to put a stop to it immediately."
   },
   {
     "id": 2153,
     "input": "Tellement zot inn met la loi, pas gagne droit corrigé zanfan. Aila seki arrive. Zanfan nepli écoute parent ni professeur dans l'école. Kuma ou pu kapav fer enn zanfan aprann?",
-    "translated": "So many laws they have put, we dont have the right to correct children.See what happens. Children no longer listen to parents or teachers in school. How can you make a child learn?"
+    "translated": "They've put in so many laws, kids don't get the right to be corrected. This is what happens. Children no longer listen to parents or teachers in school. How can you make a child learn?"
   },
   {
     "id": 1806,
@@ -41,8 +41,8 @@
   },
   {
     "id": 4283,
-    "input": "Ala bann experts lor meteo aster pe met zot bann pathetiques comment ti pe atann conge lundi off. Grow up some of you.",
-    "translated": "Here are the weather experts now putting their pathetic comment they were waiting for Monday holiday. Grow up some of you."
+    "input": "Ala bann experts lor meteo aster pe met zot bann pathetiques comment: ti pe atann conge lundi off. Grow up some of you.",
+    "translated": "Here are the weather experts now putting their pathetic comment: they were waiting for Monday holiday. Grow up some of you."
   },
   {
     "id": 2943,
@@ -57,12 +57,12 @@
   {
     "id": 5421,
     "input": "Faut mentionner s’il a nagé depuis la plage ou depuis un bateau..???",
-    "translated": "Need to mention if he swam from the beach or from a boat ..???"
+    "translated": "Need to mention if he swam from the beach or from a boat..???"
   },
   {
     "id": 10251,
     "input": "[NAME], pe get moto la li 💀 sa li pa pu truve.",
-    "translated": "[NAME], looking at the motorcycle 💀 this he will not see."
+    "translated": "[NAME], looking at the motorcycle 💀 he won't see that"
   },
   {
     "id": 988,
@@ -71,8 +71,8 @@
   },
   {
     "id": 11046,
-    "input": "[NAME], inn dir li pu fer miracle ar so permis a point la. Pu aret ena accident mort apartir janvier 2026.",
-    "translated": "[NAME], said he would do miracles with his permit on point. There will be no more fatal accidents as from January 2026."
+    "input": "[NAME] inn dir li pu fer miracle ar so permis a point la. Pu aret ena accident mort apartir janvier 2026.",
+    "translated": "[NAME] said he would do miracles with his points-based driving licence. There will be no more fatal accidents as from January 2026."
   },
   {
     "id": 7078,
@@ -82,17 +82,18 @@
   {
     "id": 5716,
     "input": "B oui, mo garson ti gagne 86 point dans francais pu 2eme trimestre la. Apre 1 mois, li compose 3eme trimestre, li gagne ungraded. Ki derule? Sa pas pe comprend.",
-    "translated": "Yes, my son got 86 points in French for the 2nd term. After 1 month, he composes 3rd trimester, he gets ungraded. What happens? Its not understanding."
+    "translated": "Yes, my son got 86 points in French for the 2nd term. After 1 month, he took the 3rd trimester, he got ungraded. What's going on? This doesn't make sense."
   },
   {
     "id": 8440,
     "input": "To nepli ena Alzheimer.",
-    "translated": "You don’t have Alzheimer’s anymore."
+    "translated": "You no longer have Alzheimer."
   },
+  amiira
   {
     "id": 9661,
     "input": "[NAME], nu retourne la France.. Moris pa facile. 🤣😂😅🤪",
-    "translated": "[NAME], we return to France.. Mauritius is not easy. 🤣😂😅🤪"
+    "translated": "[NAME], We're going back to France.. Mauritius is not easy. 🤣😂😅🤪"
   },
   {
     "id": 8060,
@@ -101,8 +102,8 @@
   },
   {
     "id": 12367,
-    "input": "Ki arrive, li pena nom li, pa deklare letat civil??",
-    "translated": "What happens, he does not have a name, wasnt he declare at marital status??"
+    "input": "Ki arrive? Li pena nom li, pa deklare letat civil??",
+    "translated": "What happens? He does not have a name. Wasn't he declared at marital status??"
   },
   {
     "id": 7659,
