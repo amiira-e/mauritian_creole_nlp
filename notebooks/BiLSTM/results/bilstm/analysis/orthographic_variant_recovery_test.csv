@@ -1,0 +1,4 @@
+variant,target_form,num_cases,num_recovered,recovery_rate
+mwa,mo,3,0,0.0
+twa,to,10,2,0.2
+kiii,ki,0,0,

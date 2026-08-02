@@ -1,0 +1,6 @@
+,input_char_len,input_char_len,input_char_len,input_char_len,target_char_len,target_char_len,target_char_len,target_char_len,input_truncated,input_truncated,input_truncated,input_truncated,target_truncated,target_truncated,target_truncated,target_truncated,input_padding_needed,input_padding_needed,input_padding_needed,input_padding_needed,target_padding_needed,target_padding_needed,target_padding_needed,target_padding_needed
+,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max
+split,,,,,,,,,,,,,,,,,,,,,,,,
+test,93.207,64.0,5,1125,94.262,64.0,6,1185,0.048,0.0,False,True,0.051,0.0,False,True,170.223,192.0,0,251,169.387,192.0,0,250
+train,92.456,64.0,5,1263,93.546,65.0,5,1248,0.052,0.0,False,True,0.054,0.0,False,True,170.538,192.0,0,251,169.571,191.0,0,251
+val,93.132,64.0,4,1075,94.231,65.0,5,1055,0.058,0.0,False,True,0.058,0.0,False,True,170.169,192.0,0,252,169.294,191.0,0,251

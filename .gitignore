@@ -60,3 +60,20 @@ notebooks/ByT5/results_v2/byt5/best_model/
 # ByT5 experiment 3
 notebooks/ByT5/results_v3/byt5/checkpoints/
 notebooks/ByT5/results_v3/byt5/best_model/
+
+# BiLSTM experiments
+notebooks/BiLSTM/results/bilstm/checkpoints/
+notebooks/BiLSTM/results/bilstm/best_model/
+
+notebooks/BiLSTM/results_v2/bilstm/checkpoints/
+notebooks/BiLSTM/results_v2/bilstm/best_model/
+
+# T5 experiments
+notebooks/T5/results/t5/checkpoints/
+notebooks/T5/results/t5/best_model/
+
+notebooks/T5/results_v2/t5/checkpoints/
+notebooks/T5/results_v2/t5/best_model/
+
+# Temporary files
+*.swp

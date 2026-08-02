@@ -1,0 +1,10 @@
+{
+  "training_start_time": "2026-08-02T07:54:17.809147",
+  "training_end_time": "2026-08-02T08:02:51.052425",
+  "training_seconds": 513.2432758808136,
+  "training_minutes": 8.55405459801356,
+  "training_hours": 0.14256757663355935,
+  "best_epoch": 3,
+  "best_val_loss": 2.614373196255077,
+  "peak_gpu_memory_gb": 16.674538135528564
+}

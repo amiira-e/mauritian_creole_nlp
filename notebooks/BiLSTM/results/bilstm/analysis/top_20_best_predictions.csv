@@ -1,0 +1,21 @@
+split,input_text,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories
+test,Station la vintage sa,Station la vintage sa.,Station la vintage sa.,0.0,0.0,True,correct
+test,Boussou,Boussou.,Boussou.,0.0,0.0,True,correct
+test,Re confinement,Re confinement.,Re confinement.,0.0,0.0,True,correct
+test,Bizin again mem sa,Bizin again mem sa.,Bizin again mem sa.,0.0,0.0,True,correct
+test,Kifer ine met foto lopital?,Kifer inn met foto lopital?,Kifer inn met foto lopitala?,0.037037037037037035,0.2,False,capitalization_error;spacing_error
+test,Après 9ans ki li dire sa?,Après 9 ans ki li dire sa?,Après  ans ki li dire sa?,0.038461538461538464,0.14285714285714285,False,spacing_error;missing_word_error
+test,Combien points li gagner?,Combien points li gagne?,Combien points li gagner?,0.041666666666666664,0.25,False,capitalization_error;spacing_error
+test,"[NAME], ou ena raison","[NAME], ou ena raison.","[NAME], ou enn raison.",0.045454545454545456,0.25,False,orthographic_or_word_choice_error
+test,Li li manzze somon,Li li manze somon.,Li li manze somonn.,0.05555555555555555,0.25,False,capitalization_error;spacing_error
+test,Ki mo bizin faire,Ki mo bizin faire?,Ki mo bizin faire.,0.05555555555555555,0.25,False,punctuation_error
+test,La dance sacouyer,La dance sacouyer.,La dance sacouye.,0.05555555555555555,0.3333333333333333,False,capitalization_error;spacing_error
+test,Manman bien smart,Manman bien smart.,Manman bien samart.,0.05555555555555555,0.3333333333333333,False,capitalization_error;spacing_error
+test,Ban coment la🔥,Bann comment la🔥.,Bann comment la.,0.058823529411764705,0.3333333333333333,False,spacing_error
+test,Ki rôle mama la?,Ki rôle mama la?,Ki rele mama la?,0.0625,0.25,False,orthographic_or_word_choice_error
+test,Baron la drogue,Baron la drogue.,Baron la drogge.,0.0625,0.3333333333333333,False,orthographic_or_word_choice_error
+test,"[NAME], merde 🤣","[NAME], merde. 🤣","[NAME], merde  🤣",0.0625,0.3333333333333333,False,punctuation_error;spacing_error
+test,Pa's faire cumsa,Pas faire kumsa.,Pass faire kumsa.,0.0625,0.3333333333333333,False,capitalization_error;spacing_error
+test,Li bliye couma service so fizi🤣,Li bliye kuma service so fizi.🤣,Li bliye kuma sersice so fizi.,0.06451612903225806,0.3333333333333333,False,spacing_error
+test,"[NAME], pour al cocovid sa","[NAME], pour ale cocovid sa.","[NAME], pour  la cocovid sa.",0.07142857142857142,0.2,False,capitalization_error;spacing_error
+test,Bien bien triste sa ca la,Bien bien triste sa cas la.,Bien binn triste sa ca la.,0.07407407407407407,0.3333333333333333,False,capitalization_error;spacing_error

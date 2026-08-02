@@ -1,0 +1,5 @@
+split,input_text,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories
+test,Station la vintage sa,Station la vintage sa.,Station la vintage sa.,0.0,0.0,True,correct
+test,Boussou,Boussou.,Boussou.,0.0,0.0,True,correct
+test,Re confinement,Re confinement.,Re confinement.,0.0,0.0,True,correct
+test,Bizin again mem sa,Bizin again mem sa.,Bizin again mem sa.,0.0,0.0,True,correct
