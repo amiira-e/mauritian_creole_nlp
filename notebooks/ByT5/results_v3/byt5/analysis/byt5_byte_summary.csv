@@ -1,0 +1,6 @@
+,input_char_len,input_char_len,input_char_len,input_char_len,target_char_len,target_char_len,target_char_len,target_char_len,input_byte_len,input_byte_len,input_byte_len,input_byte_len,target_byte_len,target_byte_len,target_byte_len,target_byte_len,input_byte_char_ratio,input_byte_char_ratio,input_byte_char_ratio,input_byte_char_ratio,target_byte_char_ratio,target_byte_char_ratio,target_byte_char_ratio,target_byte_char_ratio
+,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max
+split,,,,,,,,,,,,,,,,,,,,,,,,
+test,91.207,62.0,3,1123,92.262,62.0,4,1183,93.466,65.0,3,1123,94.357,66.0,4,1183,1.039,1.0,1.0,3.5,1.036,1.0,1.0,3.302
+train,90.456,62.0,3,1261,91.546,63.0,3,1246,92.461,64.0,3,1321,93.344,65.0,3,1295,1.035,1.0,1.0,3.182,1.032,1.0,1.0,2.714
+val,91.132,62.0,2,1073,92.231,63.0,3,1053,93.03,64.0,2,1076,93.965,65.0,3,1056,1.033,1.0,1.0,1.938,1.03,1.0,1.0,1.833

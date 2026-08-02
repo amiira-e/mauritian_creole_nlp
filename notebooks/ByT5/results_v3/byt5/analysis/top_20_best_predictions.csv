@@ -1,0 +1,21 @@
+split,input_text,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories,sentence_length,character_length,punctuation_count,words_needing_normalization
+test,"[NAME], 1 show sa. Zis pou couyone dimoune. Surtout ban militants coltar","[NAME], 1 show sa. Zis pu kuyon dimunn. Surtout bann militants coaltar.","[NAME], 1 show sa. Zis pu kuyon dimunn. Surtout bann militants coaltar.",0.0,0.0,True,correct,12,71,4,5
+test,Meme Pas dans envelope?,Mem pas dans envelope?,Mem pas dans envelope?,0.0,0.0,True,correct,4,22,1,2
+test,Li fer client fume bred mourom saaa,Li fer client fume bred mourom sa.,Li fer client fume bred mourom sa.,0.0,0.0,True,correct,7,34,1,1
+test,[NAME] einn?? Ki pou fer???,[NAME] ein?? Ki pu fer???,[NAME] ein?? Ki pu fer???,0.0,0.0,True,correct,5,25,5,2
+test,Pren compte nu ban emergency food supply pendant carem😐,Pran compte nu bann emergency food supply pendant carem.😐,Pran compte nu bann emergency food supply pendant carem.😐,0.0,0.0,True,correct,9,57,1,3
+test,Ki rôle mama la?,Ki rôle mama la?,Ki rôle mama la?,0.0,0.0,True,correct,4,16,1,0
+test,Ena so cotée pervers ladan. Devek in fair kroir ok pou miam et in install li. Maintenant aboule le cash et teigne tou la eme,Ena so kote pervers ladan. Devek inn fer krwar ok pu miam et inn install li. Maintenant aboule le cash et teigne tu lamem.,Ena so kote pervers ladan. Devek inn fer krwar ok pu miam et inn install li. Maintenant aboule le cash et teigne tu lamem.,0.0,0.0,True,correct,24,122,3,9
+test,Ferme impe do piitii,Ferme enpe dow piti.,Ferme enpe dow piti.,0.0,0.0,True,correct,4,20,1,3
+test,"[NAME], to kone ki la boutique sa","[NAME], to kone ki la boutique sa?","[NAME], to kone ki la boutique sa?",0.0,0.0,True,correct,7,34,2,1
+test,9 ans apres? Tight. Scénario peut être monter pièce par pièce par vengeance. Pas cave tout vr temps to rest trankil. Qui tone atane pendant 9 ans? P rode role sa. Next. Sinon ena cannard là-bas?,9 ans apre? Tight. Scénario peut être monte pièce par pièce par vengeance. Pas kapav tu vr tan to reste trankil. Qui tonn atann pendant 9 ans? Pe rode role sa. Next. Sinon ena cannard là-bas?,9 ans apre? Tight. Scénario peut être monte pièce par pièce par vengeance. Pas kapav tu vr tan to reste trankil. Qui tonn atann pendant 9 ans? Pe rode role sa. Next. Sinon ena cannard là-bas?,0.0,0.0,True,correct,36,191,8,9
+test,Bientôt cryptoplok pou ale ramasse savonnette 🤣😂,Bientôt cryptoplok pu ale ramasse savonnette. 🤣😂,Bientôt cryptoplok pu ale ramasse savonnette. 🤣😂,0.0,0.0,True,correct,7,48,1,2
+test,to p rod dir bizin tirr tou laport dan station ossi 🤔😂😂😂,To pe rode dir bizin tire tu laporte dan station osi. 🤔😂😂😂,To pe rode dir bizin tire tu laporte dan station osi. 🤔😂😂😂,0.0,0.0,True,correct,12,58,1,7
+test,Espere li pa gn lagard de l'enfant,Espere li pa gagne lagard de l'enfant.,Espere li pa gagne lagard de l'enfant.,0.0,0.0,True,correct,7,38,1,2
+test,Faut voir pour croire,Faut voir pour croire.,Faut voir pour croire.,0.0,0.0,True,correct,4,22,1,1
+test,Malediction pu beiiz zot sa,Malediction pu bez zot sa.,Malediction pu bez zot sa.,0.0,0.0,True,correct,5,26,1,2
+test,Meteo maurice nkor p veye lapli li,Meteo Maurice ankor pe veye lapli li.,Meteo Maurice ankor pe veye lapli li.,0.0,0.0,True,correct,7,37,1,4
+test,Gajack paré,Gajack pare.,Gajack pare.,0.0,0.0,True,correct,2,12,1,1
+test,Clown 🤡,Clown. 🤡,Clown. 🤡,0.0,0.0,True,correct,2,8,1,1
+test,No changement at all still the same as previous government gros poisson touletan ti protezer,No changement at all still the same as previous government. Gros poisson tultan ti protez.,No changement at all still the same as previous government. Gros poisson tultan ti protez.,0.0,0.0,True,correct,15,90,2,4
+test,Pauvre bébé q paye le pot cassé ene ti innocent 😥,Pauvre bébé qui peye le pot kase enn ti innocent. 😥,Pauvre bébé qui peye le pot kase enn ti innocent. 😥,0.0,0.0,True,correct,11,51,1,5

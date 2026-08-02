@@ -1,0 +1,15 @@
+{
+  "cer": 0.10087781221275617,
+  "wer": 0.1718543183322303,
+  "chrf": 86.47367353911412,
+  "exact_match": 0.4522776572668113,
+  "word_accuracy": 0.795929851370397,
+  "punct_precision": 0.8051387298674714,
+  "punct_recall": 0.5592151699179214,
+  "punct_f1": 0.6276838883526811,
+  "punct_accuracy": 0.6547513381209823,
+  "capitalization_accuracy": 0.9864455433850452,
+  "capitalization_f1": 0.868932641457904,
+  "split": "train",
+  "num_examples": 11064
+}

@@ -1,0 +1,489 @@
+split,input_text,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories
+test,"[NAME], 1 show sa. Zis pou couyone dimoune. Surtout ban militants coltar","[NAME], 1 show sa. Zis pu kuyon dimunn. Surtout bann militants coaltar.","[NAME], 1 show sa. Zis pu kuyon dimunn. Surtout bann militants coaltar.",0.0,0.0,True,correct
+test,Meme Pas dans envelope?,Mem pas dans envelope?,Mem pas dans envelope?,0.0,0.0,True,correct
+test,Li fer client fume bred mourom saaa,Li fer client fume bred mourom sa.,Li fer client fume bred mourom sa.,0.0,0.0,True,correct
+test,[NAME] einn?? Ki pou fer???,[NAME] ein?? Ki pu fer???,[NAME] ein?? Ki pu fer???,0.0,0.0,True,correct
+test,Pren compte nu ban emergency food supply pendant carem😐,Pran compte nu bann emergency food supply pendant carem.😐,Pran compte nu bann emergency food supply pendant carem.😐,0.0,0.0,True,correct
+test,Ki rôle mama la?,Ki rôle mama la?,Ki rôle mama la?,0.0,0.0,True,correct
+test,Ena so cotée pervers ladan. Devek in fair kroir ok pou miam et in install li. Maintenant aboule le cash et teigne tou la eme,Ena so kote pervers ladan. Devek inn fer krwar ok pu miam et inn install li. Maintenant aboule le cash et teigne tu lamem.,Ena so kote pervers ladan. Devek inn fer krwar ok pu miam et inn install li. Maintenant aboule le cash et teigne tu lamem.,0.0,0.0,True,correct
+test,Ferme impe do piitii,Ferme enpe dow piti.,Ferme enpe dow piti.,0.0,0.0,True,correct
+test,"[NAME], to kone ki la boutique sa","[NAME], to kone ki la boutique sa?","[NAME], to kone ki la boutique sa?",0.0,0.0,True,correct
+test,9 ans apres? Tight. Scénario peut être monter pièce par pièce par vengeance. Pas cave tout vr temps to rest trankil. Qui tone atane pendant 9 ans? P rode role sa. Next. Sinon ena cannard là-bas?,9 ans apre? Tight. Scénario peut être monte pièce par pièce par vengeance. Pas kapav tu vr tan to reste trankil. Qui tonn atann pendant 9 ans? Pe rode role sa. Next. Sinon ena cannard là-bas?,9 ans apre? Tight. Scénario peut être monte pièce par pièce par vengeance. Pas kapav tu vr tan to reste trankil. Qui tonn atann pendant 9 ans? Pe rode role sa. Next. Sinon ena cannard là-bas?,0.0,0.0,True,correct
+test,Bientôt cryptoplok pou ale ramasse savonnette 🤣😂,Bientôt cryptoplok pu ale ramasse savonnette. 🤣😂,Bientôt cryptoplok pu ale ramasse savonnette. 🤣😂,0.0,0.0,True,correct
+test,to p rod dir bizin tirr tou laport dan station ossi 🤔😂😂😂,To pe rode dir bizin tire tu laporte dan station osi. 🤔😂😂😂,To pe rode dir bizin tire tu laporte dan station osi. 🤔😂😂😂,0.0,0.0,True,correct
+test,Espere li pa gn lagard de l'enfant,Espere li pa gagne lagard de l'enfant.,Espere li pa gagne lagard de l'enfant.,0.0,0.0,True,correct
+test,Faut voir pour croire,Faut voir pour croire.,Faut voir pour croire.,0.0,0.0,True,correct
+test,Malediction pu beiiz zot sa,Malediction pu bez zot sa.,Malediction pu bez zot sa.,0.0,0.0,True,correct
+test,Meteo maurice nkor p veye lapli li,Meteo Maurice ankor pe veye lapli li.,Meteo Maurice ankor pe veye lapli li.,0.0,0.0,True,correct
+test,Gajack paré,Gajack pare.,Gajack pare.,0.0,0.0,True,correct
+test,Clown 🤡,Clown. 🤡,Clown. 🤡,0.0,0.0,True,correct
+test,No changement at all still the same as previous government gros poisson touletan ti protezer,No changement at all still the same as previous government. Gros poisson tultan ti protez.,No changement at all still the same as previous government. Gros poisson tultan ti protez.,0.0,0.0,True,correct
+test,Pauvre bébé q paye le pot cassé ene ti innocent 😥,Pauvre bébé qui peye le pot kase enn ti innocent. 😥,Pauvre bébé qui peye le pot kase enn ti innocent. 😥,0.0,0.0,True,correct
+test,Dan so la tete ki ena sa boug la?! 🤣,Dan so latet ki ena sa boug la?! 🤣,Dan so latet ki ena sa boug la?! 🤣,0.0,0.0,True,correct
+test,Netflix mort are sa senario la,Netflix mort ar sa senario la.,Netflix mort ar sa senario la.,0.0,0.0,True,correct
+test,"Education in vin ene business, anyway!","Education inn vinn enn business, anyway!","Education inn vinn enn business, anyway!",0.0,0.0,True,correct
+test,Taaah bachiara!,Ta batiara!,Ta batiara!,0.0,0.0,True,correct
+test,Surement navin pou nomme sa haut - grade la future commissaire de police..,Surement Navin pu nomme sa haut - grade la future commissaire de police..,Surement Navin pu nomme sa haut - grade la future commissaire de police..,0.0,0.0,True,correct
+test,Bane ki p vendre simic la 4 coin la rue. Kan pou aret zot,Bann ki pe vendre simic la 4 coin la rue. Kan pu aret zot?,Bann ki pe vendre simic la 4 coin la rue. Kan pu aret zot?,0.0,0.0,True,correct
+test,Station la vintage sa,Station la vintage sa.,Station la vintage sa.,0.0,0.0,True,correct
+test,Moi mo bin pa bizin legant pou levé. Mo garde li prop et plastic poubelle endans. Bizin comprend dimoune la,Moi mo bin pa bizin legant pu leve. Mo garde li prop et plastic poubelle endan. Bizin comprend dimunn la.,Moi mo bin pa bizin legant pu leve. Mo garde li prop et plastic poubelle endan. Bizin comprend dimunn la.,0.0,0.0,True,correct
+test,D'apres lorde ene nimporte ki habitié ek so bane vilain maniere la. Madam la pane paniker acoz li conner malin la ene loyo en plein,Dapre lord enn nerport ki habitié ek so bann vilain maniere la. Madam la pann panike akoz li kone malin la enn loyo en plein.,Dapre lord enn nerport ki habitié ek so bann vilain maniere la. Madam la pann panike akoz li kone malin la enn loyo en plein.,0.0,0.0,True,correct
+test,Sa ban minis la osi p kokin par million mai zamer trouve zot meT sa,Sa bann minis la osi pe kokin par million me zame truve zot met sa.,Sa bann minis la osi pe kokin par million me zame truve zot met sa.,0.0,0.0,True,correct
+test,mari mal compren sa,Mari mal konpran sa.,Mari mal konpran sa.,0.0,0.0,True,correct
+test,"[NAME], weii dire banla pa nek dire foto jiste","[NAME], wi dire banla pa nek dire foto zis.","[NAME], wi dire banla pa nek dire foto zis.",0.0,0.0,True,correct
+test,Trop guete film do. Attention to mm bez endans,Trop get film dow. Attention tomem bez endan.,Trop get film dow. Attention tomem bez endan.,0.0,0.0,True,correct
+test,Bour sa 2 clak do,Boure sa 2 clak dow.,Boure sa 2 clak dow.,0.0,0.0,True,correct
+test,Bizin saute la main pa capav tolerer sa!!!,Bizin saute la main pa kapav tolere sa!!!,Bizin saute la main pa kapav tolere sa!!!,0.0,0.0,True,correct
+test,"[NAME], kot toi taaa vomi lichien zenfant cite loiseau sa","[NAME], kot toi ta vomi lisyen? Zanfan cite loiseau sa.","[NAME], kot toi ta vomi lisyen? Zanfan cite loiseau sa.",0.0,0.0,True,correct
+test,BIzin batt li bien avnt.. Leur la call lapolice,Bizin bate li bien avant.. Lerla call lapolis.,Bizin bate li bien avant.. Lerla call lapolis.,0.0,0.0,True,correct
+test,Incident date quand,Incident date quand?,Incident date quand?,0.0,0.0,True,correct
+test,"[NAME], impossible pou faire comprend. Quand zotte proprietaire ene vehicle, zotte croire tous est permi","[NAME], impossible pu faire comprend. Quand zot proprietaire enn vehicle, zot croire tu est permi.","[NAME], impossible pu faire comprend. Quand zot proprietaire enn vehicle, zot croire tu est permi.",0.0,0.0,True,correct
+test,Pour sa cargaison ladrogue pou [NAME] la bizin prend sa case au serieux pilon pravind la conne bien sa,"Pour sa cargaison ladrog pu [NAME] la, bizin prend sa case au serieux. Pilon Pravind la kone bien sa.","Pour sa cargaison ladrog pu [NAME] la, bizin prend sa case au serieux. Pilon Pravind la kone bien sa.",0.0,0.0,True,correct
+test,Premier fois mo tend ou kozer... Ou pas paret bien intelligent entoula🤣,Premier fois mo tande ou koze... Ou pas paret bien intelligent entuka.🤣,Premier fois mo tande ou koze... Ou pas paret bien intelligent entuka.🤣,0.0,0.0,True,correct
+test,Bizin met li dehor sa,Bizin met li deor sa.,Bizin met li deor sa.,0.0,0.0,True,correct
+test,"[NAME], place to p zazer batiara","[NAME], place to pe zaze batiara.","[NAME], place to pe zaze batiara.",0.0,0.0,True,correct
+test,Sa boug la mo ti ale get li. Li fine zis pran mo casse consultation et li fine dir moi ok bye,Sa boug la mo ti ale get li. Li finn zis pran mo kas consultation et li finn dir moi ok bye.,Sa boug la mo ti ale get li. Li finn zis pran mo kas consultation et li finn dir moi ok bye.,0.0,0.0,True,correct
+test,Lontan pa tane li sa,Lontan pa tande li sa.,Lontan pa tande li sa.,0.0,0.0,True,correct
+test,Bien zoli…,Bien zoli…,Bien zoli…,0.0,0.0,True,correct
+test,To cone boussou?,To kone boussou?,To kone boussou?,0.0,0.0,True,correct
+test,Ban zanfan zot longanis ine fanE 😅😅,Bann zanfan zot longanis inn fane. 😅😅,Bann zanfan zot longanis inn fane. 😅😅,0.0,0.0,True,correct
+test,Aster macarena creve,Aster Macarena creve.,Aster Macarena creve.,0.0,0.0,True,correct
+test,"[NAME], 1 gro prblm sa","[NAME], 1 gro problem sa.","[NAME], 1 gro problem sa.",0.0,0.0,True,correct
+test,ENA DIMOUNE DÉGUEULASSE💩💩💩💩💩🤡 🤮🤮🤮🤮,ENA DIMUNN DÉGUEULASSE.💩💩💩💩💩🤡 🤮🤮🤮🤮,ENA DIMUNN DÉGUEULASSE.💩💩💩💩💩🤡 🤮🤮🤮🤮,0.0,0.0,True,correct
+test,Mo pa chagrin li lin pren la drogue lalcol,Mo pa chagrin li. Linn pran la drogue lalkol.,Mo pa chagrin li. Linn pran la drogue lalkol.,0.0,0.0,True,correct
+test,Ceki ti dir pu aster la.. pa encor vini.. aster zot p dir dmai.. maaari sa..,Seki ti dir pu aster la.. pa ankor vini.. aster zot pe dir demain.. mari sa..,Seki ti dir pu aster la.. pa ankor vini.. aster zot pe dir demain.. mari sa..,0.0,0.0,True,correct
+test,Eski li dan's govn sa,Eski li dans guvernman sa?,Eski li dans guvernman sa?,0.0,0.0,True,correct
+test,"[NAME], dimune trop mov lor la terre","[NAME], dimunn trop move lor la terre.","[NAME], dimunn trop move lor la terre.",0.0,0.0,True,correct
+test,Education carton rouge dans moriste,Education carton rouge dans Moris.,Education carton rouge dans Moris.,0.0,0.0,True,correct
+test,Bizin so mari ine kit li astr li p rod venge li 😂🤦🏽‍♀️,Bizin so mari inn kite li aster li pe rode venge li. 😂🤦🏽‍♀️,Bizin so mari inn kite li aster li pe rode venge li. 😂🤦🏽‍♀️,0.0,0.0,True,correct
+test,"[NAME], nous gagne l'amende si saleté comme ça devant nous la porte","[NAME], nous gagne l'amende si salte comme sa devant nous la porte.","[NAME], nous gagne l'amende si salte comme sa devant nous la porte.",0.0,0.0,True,correct
+test,Dan 4ans zot oci nouS pou retirE..😂et pas bliyE nou oci nouS pou met latrap😉,Dan 4 ans zot osi nous pu retire..😂et pas bliye nu osi nous pu met latrap.😉,Dan 4 ans zot osi nous pu retire..😂et pas bliye nu osi nous pu met latrap.😉,0.0,0.0,True,correct
+test,Trump pou vin moris,Trump pu vinn Moris.,Trump pu vinn Moris.,0.0,0.0,True,correct
+test,I was there on 2 janvier dimoune pleins xtra. Place pou marser pena,I was there on 2 janvier dimunn pleins extra. Place pu marse pena.,I was there on 2 janvier dimunn pleins extra. Place pu marse pena.,0.0,0.0,True,correct
+test,"[NAME], frere ena shift system","[NAME], frere ena shift system.","[NAME], frere ena shift system.",0.0,0.0,True,correct
+test,"Allowance sunday / [NAME] pou bannes policiers bizin re introduire, après met smf/ssu faire patrols 24/7 surtout dans l’endroit chaud","Allowance Sunday / [NAME] pu bann policiers bizin re introduire, après met SMF/SSU faire patrols 24/7 surtout dans l’endroit chaud.","Allowance Sunday / [NAME] pu bann policiers bizin re introduire, après met SMF/SSU faire patrols 24/7 surtout dans l’endroit chaud.",0.0,0.0,True,correct
+test,Berenger pou change toi,Berenger pu change toi.,Berenger pu change toi.,0.0,0.0,True,correct
+test,ena pou dir camion la entord,Ena pu dir camion la antor.,Ena pu dir camion la antor.,0.0,0.0,True,correct
+test,Si pa ti ena bnla... Eski zot realise ki ti pu ariv nu.. Nu la cour... Dn ki kalit malprop nu ti pu vive... 1 jur retard zot fr... Fr bel bel tapaz... Alors apran respect sa bnela svp...,Si pa ti ena banla... Eski zot realise ki ti pu arrive nu.. Nu lakour... Dan ki kalite malprop nu ti pu viv... 1 zur retard zot fer... Fer bel bel tapaz... Alors aprann respect sa banla svp...,Si pa ti ena banla... Eski zot realise ki ti pu arrive nu.. Nu lakour... Dan ki kalite malprop nu ti pu viv... 1 zur retard zot fer... Fer bel bel tapaz... Alors aprann respect sa banla svp...,0.0,0.0,True,correct
+test,Sc fail waste of resources and money rembourse si pa passe,SC fail. Waste of resources and money. Rembourse si pa passe.,SC fail. Waste of resources and money. Rembourse si pa passe.,0.0,0.0,True,correct
+test,"[NAME], zordi ki moricien découvert 1 scammer sa 🤣","[NAME], zordi ki Morisien découvert 1 scammer sa. 🤣","[NAME], zordi ki Morisien découvert 1 scammer sa. 🤣",0.0,0.0,True,correct
+test,Lopital toultemp problem papa,Lopital tultan problem papa.,Lopital tultan problem papa.,0.0,0.0,True,correct
+test,Quel bank sa?,Quel bank sa?,Quel bank sa?,0.0,0.0,True,correct
+test,"[NAME], get ca 1 cout dow","[NAME], get sa 1 kut dow.","[NAME], get sa 1 kut dow.",0.0,0.0,True,correct
+test,Hope he reads the comments ek conner combien degoutanttt li eter!,Hope he reads the comments ek kone combien degoutant li ete!,Hope he reads the comments ek kone combien degoutant li ete!,0.0,0.0,True,correct
+test,Poucentage p baisser... Bizin done lecon plus,Poucentage pe bese... Bizin donne lesson plus.,Poucentage pe bese... Bizin donne lesson plus.,0.0,0.0,True,correct
+test,Fer sa met 1 culote,Fer sa met 1 culote.,Fer sa met 1 culote.,0.0,0.0,True,correct
+test,"[NAME], mo pense pas li pu rapel ki lin kzer zrdi😂","[NAME], mo pense pas li pu rapel ki linn koze zordi.😂","[NAME], mo pense pas li pu rapel ki linn koze zordi.😂",0.0,0.0,True,correct
+test,Tw tir bnla nu nu pu tir tw,"Twa tire banla, nu nu pu tire twa.","Twa tire banla, nu nu pu tire twa.",0.0,0.0,True,correct
+test,B la fin la journée bann parents pa réalise zot zenfan pa la!?,B la fin la journée bann parents pa réalise zot zanfan pa la!?,B la fin la journée bann parents pa réalise zot zanfan pa la!?,0.0,0.0,True,correct
+test,Tention soulier perdi!😅,Tention soulier perdi!😅,Tention soulier perdi!😅,0.0,0.0,True,correct
+test,Cyclone la kas nisa... 🤔,Cyclone la kas nisa... 🤔,Cyclone la kas nisa... 🤔,0.0,0.0,True,correct
+test,bizin cancel night shopping. security lepep avant tout. ban sans vision ki pense zis sensation,Bizin cancel night shopping. Security lepep avant tu. Bann sans vision ki pense zis sensation.,Bizin cancel night shopping. Security lepep avant tu. Bann sans vision ki pense zis sensation.,0.0,0.0,True,correct
+test,[NAME] tarder em,[NAME] tarde mem.,[NAME] tarde mem.,0.0,0.0,True,correct
+test,Pou inogirasion,Pu inogirasion.,Pu inogirasion.,0.0,0.0,True,correct
+test,Boss guet impe partou... Partou prix exorbitan suretou taxi,Boss get enpe partu... Partu prix exorbitan surtout taxi.,Boss get enpe partu... Partu prix exorbitan surtout taxi.,0.0,0.0,True,correct
+test,"[NAME], oui mo get... Pour le moment pna nanier","[NAME], oui mo get... Pour le moment pena nanyin.","[NAME], oui mo get... Pour le moment pena nanyin.",0.0,0.0,True,correct
+test,Ene nouvelle épisode tulsi,Enn nouvelle épisode Tulsi.,Enn nouvelle épisode Tulsi.,0.0,0.0,True,correct
+test,Ti pu bon si dans la journey ti passe 1 coup ki deroulez Dans bane mag ki paye loyer,Ti pu bon si dans la journey ti passe 1 kut ki derule. Dans bann magasin ki peye loyer.,Ti pu bon si dans la journey ti passe 1 kut ki derule. Dans bann magasin ki peye loyer.,0.0,0.0,True,correct
+test,🤦‍♀️🤦‍♀️🤦‍♀️ artistes cot p aller!!!!🙄,🤦‍♀️🤦‍♀️🤦‍♀️ artistes kot pe ale!!!!🙄,🤦‍♀️🤦‍♀️🤦‍♀️ artistes kot pe ale!!!!🙄,0.0,0.0,True,correct
+test,Al maye canard encore,Ale maye canard encore.,Ale maye canard encore.,0.0,0.0,True,correct
+test,Double decker in fire 🔥🔥🔥🔥🔥🚍🚍🚍🚌🚌♨️♨️,Double decker inn fire. 🔥🔥🔥🔥🔥🚍🚍🚍🚌🚌♨️♨️,Double decker inn fire. 🔥🔥🔥🔥🔥🚍🚍🚍🚌🚌♨️♨️,0.0,0.0,True,correct
+test,Malheureusement cki ti bsn mort la pan mort,Malheureusement seki ti bizin mort la pann mort.,Malheureusement seki ti bizin mort la pann mort.,0.0,0.0,True,correct
+test,Enta piago zt 🥝 ine bousser la,Enta piago zot 🥝 inn bouss la.,Enta piago zot 🥝 inn bouss la.,0.0,0.0,True,correct
+test,Bonne chance au z'eleve,Bonne chance au zelev.,Bonne chance au zelev.,0.0,0.0,True,correct
+test,"Pou capable gaspille cash public, Gagne commission are seki pou Fer la porte la.","Pu capable gaspille cash public, gagne commission ar seki pu fer la porte la.","Pu capable gaspille cash public, gagne commission ar seki pu fer la porte la.",0.0,0.0,True,correct
+test,Pinok the mafia boss.. La bastille so place,Pinok the mafia boss.. La bastille so place.,Pinok the mafia boss.. La bastille so place.,0.0,0.0,True,correct
+test,Acz canard sa. 😆,Akoz canard sa. 😆,Akoz canard sa. 😆,0.0,0.0,True,correct
+test,Fam la ine plein r so mari acz sa li p envi debarasse li...🤣🤣🤣🤣,Fam la inn plein ar so mari akoz sa li pe anvi debarasse li...🤣🤣🤣🤣,Fam la inn plein ar so mari akoz sa li pe anvi debarasse li...🤣🤣🤣🤣,0.0,0.0,True,correct
+test,"[NAME], to kone kot li été toi","[NAME], to kone kot li ete toi?","[NAME], to kone kot li ete toi?",0.0,0.0,True,correct
+test,"[NAME], zot rest zis pou prend bouquet fleur kan p ale faire landing la bas","[NAME], zot reste zis pu prend bouquet fleur kan pe ale faire landing laba.","[NAME], zot reste zis pu prend bouquet fleur kan pe ale faire landing laba.",0.0,0.0,True,correct
+test,Pou créer job gateman.,Pu créer job gateman.,Pu créer job gateman.,0.0,0.0,True,correct
+test,zot in manz mami😂😂,Zot inn manze mami.😂😂,Zot inn manze mami.😂😂,0.0,0.0,True,correct
+test,kayne west local,Kayne West local.,Kayne West local.,0.0,0.0,True,correct
+test,Bisin arret travail Dan's privee et arret prediction allowance,Bizin aret travail dans prive et aret prediction allowance.,Bizin aret travail dans prive et aret prediction allowance.,0.0,0.0,True,correct
+test,"[NAME], dmain lekole","[NAME], demain lekol.","[NAME], demain lekol.",0.0,0.0,True,correct
+test,Cot securiter ek cctv camera???,Kot sekurite ek CCTV camera???,Kot sekurite ek CCTV camera???,0.0,0.0,True,correct
+test,Nom fami manique 😂😂😂😂,Nom fami manique. 😂😂😂😂,Nom fami manique. 😂😂😂😂,0.0,0.0,True,correct
+test,Lundi mmm p retire li lerla mo get comments. Ek sa li imminent,Lundi MMM pe retire li lerla mo get comments. Ek sa li imminent.,Lundi MMM pe retire li lerla mo get comments. Ek sa li imminent.,0.0,0.0,True,correct
+test,Un des 60 voleurs de pension sans l'amour propre pas honter p vivre are la sueur des petits contribuables,Un des 60 voleurs de pension sans l'amour propre. Pas honte pe viv ar la sueur des petits contribuables.,Un des 60 voleurs de pension sans l'amour propre. Pas honte pe viv ar la sueur des petits contribuables.,0.0,0.0,True,correct
+test,So ban garde du corp couma dire ti toutou li pas capav marche tout seul,So bann garde du corp kumadir ti toutou li pas kapav marse tu seul.,So bann garde du corp kumadir ti toutou li pas kapav marse tu seul.,0.0,0.0,True,correct
+test,Besoin battre chauffeur la jusqu'à li desoule,Besoin bate chauffeur la jusqu'à li desoule.,Besoin bate chauffeur la jusqu'à li desoule.,0.0,0.0,True,correct
+test,Hats off [NAME]. To p fer n zoli travay. Continier bro. Sensibilise la population,Hats off [NAME]. To pe fer enn zoli travail. Kontiyn brother. Sensibilise la population.,Hats off [NAME]. To pe fer enn zoli travail. Kontiyn brother. Sensibilise la population.,0.0,0.0,True,correct
+test,Bravo. Tnn voter to bizin aider kot to truve ena blockage,Bravo. Tonn vote to bizin aide kot to truve ena blockage.,Bravo. Tonn vote to bizin aide kot to truve ena blockage.,0.0,0.0,True,correct
+test,"[NAME], 1 fam ki laguerre pou twa ek 1 fam ki defane twa... Fer 1 demarse sa 2 fam la pas bate ensam..🫠","[NAME], 1 fam ki lager pu twa ek 1 fam ki defane twa... Fer 1 demarse sa 2 fam la pas bate ensam..🫠","[NAME], 1 fam ki lager pu twa ek 1 fam ki defane twa... Fer 1 demarse sa 2 fam la pas bate ensam..🫠",0.0,0.0,True,correct
+test,Self confidence 100% 😁,Self confidence 100%. 😁,Self confidence 100%. 😁,0.0,0.0,True,correct
+test,Mes sympathique a la famille li pas facile ou perdi n famille 🌹🙏🏼🙏🏼🙏🏼,Mes sympathique à la famille. Li pas facile ou perdi enn famille. 🌹🙏🏼🙏🏼🙏🏼,Mes sympathique à la famille. Li pas facile ou perdi enn famille. 🌹🙏🏼🙏🏼🙏🏼,0.0,0.0,True,correct
+test,"[NAME], c ki t p mo montrer la.... N pair vieux lagrain blanc sa..","[NAME], seki to pe mo montre la.... Enn pair vieux lagrain blanc sa..","[NAME], seki to pe mo montre la.... Enn pair vieux lagrain blanc sa..",0.0,0.0,True,correct
+test,Li li manzze somon,Li li manze somon.,Li li manze somon.,0.0,0.0,True,correct
+test,C tjrs sahh! Pena nom dimun la dohh. Fishyyy heinn,Se tuzur sa! Pena nom dimunn la dow. Fishy hein.,Se tuzur sa! Pena nom dimunn la dow. Fishy hein.,0.0,0.0,True,correct
+test,Pou t ferm laport la kn t rentre,Pu to ferme laporte la kan to rantre.,Pu to ferme laporte la kan to rantre.,0.0,0.0,True,correct
+test,"[NAME], zot ggn a+ ladan 🤣","[NAME], zot gagne a+ ladan. 🤣","[NAME], zot gagne a+ ladan. 🤣",0.0,0.0,True,correct
+test,"Ouais, ton paolo.! Rente garage! Fine grand temps!","Ouais, ton Paolo.! Rantre garage! Finn grand tan!","Ouais, ton Paolo.! Rantre garage! Finn grand tan!",0.0,0.0,True,correct
+test,Vive l'alliance du changment avec to law & order bancal et avec to macarena et ton plok,Viv l'alliance du changment avec to law & order bancal et avec to Macarena et ton plok.,Viv l'alliance du changment avec to law & order bancal et avec to Macarena et ton plok.,0.0,0.0,True,correct
+test,Madam la bizin tir chapo r li. Li ena un xtra sang froid,Madam la bizin tire chapo ar li. Li ena un extra sang froid.,Madam la bizin tire chapo ar li. Li ena un extra sang froid.,0.0,0.0,True,correct
+test,"[NAME], bhai mustang🤣","[NAME], bhai mustang.🤣","[NAME], bhai mustang.🤣",0.0,0.0,True,correct
+test,"[NAME], faut bien réfléchir avant de confier cet enfant à cette personne","[NAME], faut bien réfléchir avant de confier cet enfant à cette personne.","[NAME], faut bien réfléchir avant de confier cet enfant à cette personne.",0.0,0.0,True,correct
+test,Tou sa temp la mne res veg pou narien,Tusa tan la mon res veg pu nanyin.,Tusa tan la mon res veg pu nanyin.,0.0,0.0,True,correct
+test,Humouriste vinne humoutriste!,Humouriste vinn humoutriste!,Humouriste vinn humoutriste!,0.0,0.0,True,correct
+test,"[NAME], dimouns p croire journal independent sa. 🤣🤣 zot pas p kone ehsan so journal sa, fr propagande","[NAME], dimunn pe croire journal independent sa. 🤣🤣 Zot pas pe kone Ehsan so journal sa, fer propagande.","[NAME], dimunn pe croire journal independent sa. 🤣🤣 Zot pas pe kone Ehsan so journal sa, fer propagande.",0.0,0.0,True,correct
+test,Ena lecole demain asking for a friend😊,Ena lekol demain? Asking for a friend.😊,Ena lekol demain? Asking for a friend.😊,0.0,0.0,True,correct
+test,Kan pou fer ene test pou banne ki roule ene e-bicycle ki ena moteur ki bisin charge avant alle lor laroute. Bisin at least demande zotte ene learner parseki zot servi laroute ki ena tous kalite vehicles ki paye assurance et zotte non,Kan pu fer enn test pu bann ki roule enn e-bicycle ki ena moteur ki bizin charge avant ale lor la route. Bizin at least demande zot enn learner parski zot servi la route ki ena tu kalite vehicles ki peye assurance et zot non.,Kan pu fer enn test pu bann ki roule enn e-bicycle ki ena moteur ki bizin charge avant ale lor la route. Bizin at least demande zot enn learner parski zot servi la route ki ena tu kalite vehicles ki peye assurance et zot non.,0.0,0.0,True,correct
+test,Enn Bez la,Enn bez la.,Enn bez la.,0.0,0.0,True,correct
+test,Aster 2 credit,Aster 2 credit.,Aster 2 credit.,0.0,0.0,True,correct
+test,Bizin met ban déchets dan ban sac en plastic respect sa ban t workers la,Bizin met bann déchets dan bann sac en plastic. Respect sa bann to workers la.,Bizin met bann déchets dan bann sac en plastic. Respect sa bann to workers la.,0.0,0.0,True,correct
+test,Bour zot noms ki fer initial bisin demasquer zot,Boure zot noms kifer initial? Bizin demasquer zot.,Boure zot noms kifer initial? Bizin demasquer zot.,0.0,0.0,True,correct
+test,Apres 9 ans... Ti bizin poursuive to mem... Grand zafr to fine fr la... La qui to pou dire pendant 9 ans ti colle to la bouche tout..,Apre 9 ans... Ti bizin poursuive tomem... Grand zafer to finn fer la... La qui to pu dire pendant 9 ans ti colle to la bouche tu..,Apre 9 ans... Ti bizin poursuive tomem... Grand zafer to finn fer la... La qui to pu dire pendant 9 ans ti colle to la bouche tu..,0.0,0.0,True,correct
+test,Sa meme pou ena la. Bsin aplik sa la loi ki ramgoolam in prononcer la aster la même. A. Cose n n'importe tou p souffert aster😩😩,Samem pu ena la. Bizin aplik sa la loi ki Ramgoolam inn prononce la aster lamem. Akoz enn n'importe tu pe souffert aster.😩😩,Samem pu ena la. Bizin aplik sa la loi ki Ramgoolam inn prononce la aster lamem. Akoz enn n'importe tu pe souffert aster.😩😩,0.0,0.0,True,correct
+test,Van ine ggn létan 2 business days pu pez frein🤨,Van inn gagne letan 2 business days pu pez frein.🤨,Van inn gagne letan 2 business days pu pez frein.🤨,0.0,0.0,True,correct
+test,Enfin rien de nouvo. Public so securiT zero mm. Bel bel vision mais tipti problem pa kav resoudre,Enfin rien de nuvo. Public so sekirite zero mem. Bel bel vision mais tipti problem pa kapav resoudre.,Enfin rien de nuvo. Public so sekirite zero mem. Bel bel vision mais tipti problem pa kapav resoudre.,0.0,0.0,True,correct
+test,Li pena nom si ti ene simple dimoune to pou mete so photo tout,Li pena nom? Si ti enn simple dimunn to pu met so photo tu.,Li pena nom? Si ti enn simple dimunn to pu met so photo tu.,0.0,0.0,True,correct
+test,Kan pou fini empirer ki pou tander... la p prend precaution.. aprés nou pou tander,Kan pu fini empirer ki pu tande... la pe prend precaution.. apre nu pu tande.,Kan pu fini empirer ki pu tande... la pe prend precaution.. apre nu pu tande.,0.0,0.0,True,correct
+test,Fer zot vine kaya 2.0,Fer zot vinn kaya 2.0.,Fer zot vinn kaya 2.0.,0.0,0.0,True,correct
+test,"[NAME], mais lerla ou perdi tou vote!","[NAME], mais lerla ou perdi tu vote!","[NAME], mais lerla ou perdi tu vote!",0.0,0.0,True,correct
+test,"li ti bizin ale work Pu CIA, CIA employ ban dimoune ki sociopath zot.","Li ti bizin ale work pu CIA, CIA employ bann dimunn ki sociopath zot.","Li ti bizin ale work pu CIA, CIA employ bann dimunn ki sociopath zot.",0.0,0.0,True,correct
+test,"[NAME], ki coupable la? 😆 🤣 😂","[NAME], ki coupable la? 😆 🤣 😂","[NAME], ki coupable la? 😆 🤣 😂",0.0,0.0,True,correct
+test,"Bann kinn vinn millionaire arr cryptomoney, met zot présence","Bann kinn vinn millionaire ar cryptomoney, met zot présence.","Bann kinn vinn millionaire ar cryptomoney, met zot présence.",0.0,0.0,True,correct
+test,Manta lite human pas pe change. MO compren zot douleur bann freres,Manta lite human pas pe change. Mo konpran zot douleur bann frere.,Manta lite human pas pe change. Mo konpran zot douleur bann frere.,0.0,0.0,True,correct
+test,Mange zot entre zot mem,Manze zot entre zot mem.,Manze zot entre zot mem.,0.0,0.0,True,correct
+test,"[NAME], tonn parer?","[NAME], tonn pare?","[NAME], tonn pare?",0.0,0.0,True,correct
+test,Gopia 2026,Gopia 2026.,Gopia 2026.,0.0,0.0,True,correct
+test,Coumsa meme tout nous ban ministre ete humble 👏🏽,Kumsamem tu nous bann ministre ete humble. 👏🏽,Kumsamem tu nous bann ministre ete humble. 👏🏽,0.0,0.0,True,correct
+test,Li mem pou fatiguer avc repone question. Banla pou demand li preuve mai tou in fini zis lir parol kuma li pou prouve sa. Li ouvert la bouche pou dir la veriter apre 9 ans li ena 1gran chance li usi li tasser la,Limem pu fatigue avec reponn question. Banla pu demande li preuve me tu inn fini zis lire parol kuma li pu prouve sa. Li ouvert la bouche pu dir la verite apre 9 ans li ena 1 gran chance li osi li tasse la.,Limem pu fatigue avec reponn question. Banla pu demande li preuve me tu inn fini zis lire parol kuma li pu prouve sa. Li ouvert la bouche pu dir la verite apre 9 ans li ena 1 gran chance li osi li tasse la.,0.0,0.0,True,correct
+test,Van la trouver camion la fini sorti b li rouler meme,"Van la truve camion la fini sorti, b li roule mem?","Van la truve camion la fini sorti, b li roule mem?",0.0,0.0,True,correct
+test,Ayo madam.. Pas vin maurice.. Malheur pou lor ou... Esperer ou pas gagne visa pou rentrer.,Ayo madam.. Pas vinn Maurice.. Malheur pu lor ou... Espere ou pas gagne visa pu rantre.,Ayo madam.. Pas vinn Maurice.. Malheur pu lor ou... Espere ou pas gagne visa pu rantre.,0.0,0.0,True,correct
+test,Madam la p continuer nettoyer,Madam la pe kontiyn nettoyer.,Madam la pe kontiyn nettoyer.,0.0,0.0,True,correct
+test,"[NAME], oune peur kisanla?","[NAME], ou peur kisanla?","[NAME], ou peur kisanla?",0.0,0.0,True,correct
+test,Apre p vine koz combat contre la drogue,Apre pe vinn koze combat contre la drogue.,Apre pe vinn koze combat contre la drogue.,0.0,0.0,True,correct
+test,Guet so laguel 1 kout 😅,Get so lagel 1 kut. 😅,Get so lagel 1 kut. 😅,0.0,0.0,True,correct
+test,Madame la prepare so defence tjr. Li contine so netoyage normal. Mocroire madame fini conner fusil joujou sa😃,Madame la prepare so defence tuzur. Li kontiyn so netwayaz normal. Mo krwar madame fini kone fusil joujou sa.😃,Madame la prepare so defence tuzur. Li kontiyn so netwayaz normal. Mo krwar madame fini kone fusil joujou sa.😃,0.0,0.0,True,correct
+test,Tout learner valable un maximum. Interdit 3 dimounes ou plus lors motocyclettes. Beaucoup vieux dimoune lors motocyclettes roule au milieu la route. En générale motocyclistes mauricien pas konne ralentir pour laisse priorité,Tu learner valable un maximum. Interdit 3 dimunn ou plus lor motocyclettes. Beaucoup vieux dimunn lor motocyclettes roule au milieu la route. En générale motocyclistes Mauricien pas kone ralentir pour laisse priorité.,Tu learner valable un maximum. Interdit 3 dimunn ou plus lor motocyclettes. Beaucoup vieux dimunn lor motocyclettes roule au milieu la route. En générale motocyclistes Mauricien pas kone ralentir pour laisse priorité.,0.0,0.0,True,correct
+test,[NAME] chose pareil??? Cest un travail comme les autres,[NAME] chose pareil??? Se un travail comme les autres.,[NAME] chose pareil??? Se un travail comme les autres.,0.0,0.0,True,correct
+test,Dapre rol akz tou zafrr in mntE.. Li ti bzen 1 ou 2 piece loto pu s machine,Dapre role akoz tu zafer inn monte.. Li ti bizin 1 ou 2 piece loto pu so machine.,Dapre role akoz tu zafer inn monte.. Li ti bizin 1 ou 2 piece loto pu so machine.,0.0,0.0,True,correct
+test,"Kan ena kitchose pu bisin met lor radio coz fbk tiktok etc pa ene place pu gagne solution,","Kan ena kitsoz pu bizin met lor radio, koze Facebook, TikTok, etc, pa enn place pu gagne solution.","Kan ena kitsoz pu bizin met lor radio, koze Facebook, TikTok, etc, pa enn place pu gagne solution.",0.0,0.0,True,correct
+test,"[NAME], rentre par backing, pena meriter","[NAME], rantre par backing, pena merite.","[NAME], rantre par backing, pena merite.",0.0,0.0,True,correct
+test,Bizin condamne la personne et pena pou renvoye case encore,Bizin condamne la personne et pena pu renvoye case encore.,Bizin condamne la personne et pena pu renvoye case encore.,0.0,0.0,True,correct
+test,Li bliye couma service so fizi🤣,Li bliye kuma service so fizi.🤣,Li bliye kuma service so fizi.🤣,0.0,0.0,True,correct
+test,"[NAME], ahhh bon?","[NAME], ah bon?","[NAME], ah bon?",0.0,0.0,True,correct
+test,"[NAME], tire photo, avoye li bureau, svp.","[NAME], tire photo, avoy li bureau, svp.","[NAME], tire photo, avoy li bureau, svp.",0.0,0.0,True,correct
+test,Ban zanfan primaire bzin ggn bat r prof kuma lontan lerla pu ena discipline pu le futur 🤐,"Bann zanfan primaire bizin gagne bate ar professeur kuma lontan, lerla pu ena discipline pu le futur. 🤐","Bann zanfan primaire bizin gagne bate ar professeur kuma lontan, lerla pu ena discipline pu le futur. 🤐",0.0,0.0,True,correct
+test,Zot fini re korek 😂,Zot fini re korek. 😂,Zot fini re korek. 😂,0.0,0.0,True,correct
+test,"[NAME], and [NAME] kill me 🤣🤣🤣 refuser si pa bon","[NAME], and [NAME] kill me 🤣🤣🤣 refiz si pa bon.","[NAME], and [NAME] kill me 🤣🤣🤣 refiz si pa bon.",0.0,0.0,True,correct
+test,Dudzai pa ti p vin eklat partou🤔🤔tou dimun suive windy.. Nu dsan cner ki cyclone la pa n danger,Dudzai pa ti pe vinn eclate partu🤔🤔tu dimunn suive windy.. Nu desan kone ki cyclone la pa enn danger.,Dudzai pa ti pe vinn eclate partu🤔🤔tu dimunn suive windy.. Nu desan kone ki cyclone la pa enn danger.,0.0,0.0,True,correct
+test,"[NAME], banla mm ti tap to la glass la","[NAME], banla mem ti tape to la glass la.","[NAME], banla mem ti tape to la glass la.",0.0,0.0,True,correct
+test,"[NAME], 300 trop beaucoup","[NAME], 300 trop beaucoup.","[NAME], 300 trop beaucoup.",0.0,0.0,True,correct
+test,Dimoune pe gagne covid faire attention.,"Dimunn pe gagne Covid, faire attention.","Dimunn pe gagne Covid, faire attention.",0.0,0.0,True,correct
+test,Rode ene terrain et monte ene parking area with max height,Rode enn terrain et monte enn parking area with max height.,Rode enn terrain et monte enn parking area with max height.,0.0,0.0,True,correct
+test,"P fr tou pu privatize sa, parey kouma inn fr fitness center","Pe fer tu pu privatize sa, pareil kuma inn fer fitness center.","Pe fer tu pu privatize sa, pareil kuma inn fer fitness center.",0.0,0.0,True,correct
+test,"[NAME], boss, inn dir twa bizin revoir la loi","[NAME], boss, inn dir twa bizin revoir la loi.","[NAME], boss, inn dir twa bizin revoir la loi.",0.0,0.0,True,correct
+test,Ki la banque sa mete nom pou dimounes conner,Ki la banque sa? Met nom pu dimunn kone.,Ki la banque sa? Met nom pu dimunn kone.,0.0,0.0,True,correct
+test,Couma van entor la,Kuma van antor la?,Kuma van antor la?,0.0,0.0,True,correct
+test,Fan caca moris labas ler aplique la lois severe rodriguais aussi ramasse beze,Fan kaka Moris laba. Ler aplique la loi severe rodriguais aussi ramasse bez.,Fan kaka Moris laba. Ler aplique la loi severe rodriguais aussi ramasse bez.,0.0,0.0,True,correct
+test,"[NAME], moisi m renferme li.. M tifi.. Tanki li pa vne grand ek kmprnd.. Ni avion, ni oken banal.. Mo pa pu amen li","[NAME], moisi mo renferme li.. Mo tifi.. Tanki li pa vinn grand ek konpran.. Ni avion, ni okenn banal.. Mo pa pu amenn li.","[NAME], moisi mo renferme li.. Mo tifi.. Tanki li pa vinn grand ek konpran.. Ni avion, ni okenn banal.. Mo pa pu amenn li.",0.0,0.0,True,correct
+test,Al dodo do!,Ale dodo dow!,Ale dodo dow!,0.0,0.0,True,correct
+test,Zot pas koner ki appel bann shift 👀👀👀👀👀👀,Zot pas kone ki apel bann shift. 👀👀👀👀👀👀,Zot pas kone ki apel bann shift. 👀👀👀👀👀👀,0.0,0.0,True,correct
+test,L'important leker propre. Noune kone dan tard.,L'important leker propre. Nu kone dan tard.,L'important leker propre. Nu kone dan tard.,0.0,0.0,True,correct
+test,To ti envie vinne [NAME] 🫅 ala sa ki arrive,To ti anvi vinn [NAME] 🫅 ala seki arrive.,To ti anvi vinn [NAME] 🫅 ala seki arrive.,0.0,0.0,True,correct
+test,si nou bane lekol ti koumsa ti pou bon,Si nu bann lekol ti kumsa ti pu bon.,Si nu bann lekol ti kumsa ti pu bon.,0.0,0.0,True,correct
+test,"La nous kapav fer salmi pilchards, civet pilchards, pilchards rôti, bouillon pilchards, pizza pilchards","La nous kapav fer salmi pilchards, civet pilchards, pilchards rôti, bouillon pilchards, pizza pilchards.","La nous kapav fer salmi pilchards, civet pilchards, pilchards rôti, bouillon pilchards, pizza pilchards.",0.0,0.0,True,correct
+test,Ki la bank du sang,Ki labank du sang?,Ki labank du sang?,0.0,0.0,True,correct
+test,Met so nom et met1 deposition,Met so nom et met 1 deposition.,Met so nom et met 1 deposition.,0.0,0.0,True,correct
+test,Good job.. Tiabon pa capav paye caution,Good job.. Tiabon pa kapav peye caution.,Good job.. Tiabon pa kapav peye caution.,0.0,0.0,True,correct
+test,"[NAME], mo pou done toisi lesson gratis","[NAME], mo pu donne toisi lesson gratis.","[NAME], mo pu donne toisi lesson gratis.",0.0,0.0,True,correct
+test,"Ta btl, apran to ban dimune gandia pa 1 ladrogue, lerla to comnse met lorde","Ta btl, aprann to bann dimunn gandia pa 1 ladrog, lerla to komans met lord.","Ta btl, aprann to bann dimunn gandia pa 1 ladrog, lerla to komans met lord.",0.0,0.0,True,correct
+test,Boss mo p rod simiz plateau. Ena?,"Boss, mo pe rode simiz plateau. Ena?","Boss, mo pe rode simiz plateau. Ena?",0.0,0.0,True,correct
+test,Akozz canard sa 😆,Akoz canard sa. 😆,Akoz canard sa. 😆,0.0,0.0,True,correct
+test,B ena encore cas p trouvé lor fb. V dir ena lezot encore???,B ena encore cas pe truve lor Facebook. Vdire ena lezot encore???,B ena encore cas pe truve lor Facebook. Vdire ena lezot encore???,0.0,0.0,True,correct
+test,Nu si nu pu tire zt pareil ban pl*s,Nu si nu pu tire zot pareil bann pilon.,Nu si nu pu tire zot pareil bann pilon.,0.0,0.0,True,correct
+test,Cryptoking vin cryptopoil,Cryptoking vinn cryptopoil.,Cryptoking vinn cryptopoil.,0.0,0.0,True,correct
+test,Mauricien fier de zot. Sa mem nou priorité la trap ti dimounn,Mauricien fier de zot. Samem nu priorité la trape ti dimunn.,Mauricien fier de zot. Samem nu priorité la trape ti dimunn.,0.0,0.0,True,correct
+test,Pou tous kaliter macro pa rentrer 😜🤪,Pu tu kalite macro pa rantre. 😜🤪,Pu tu kalite macro pa rantre. 😜🤪,0.0,0.0,True,correct
+test,Roshi so lesprit sa pa zot,Roshi so lespri sa pa zot.,Roshi so lespri sa pa zot.,0.0,0.0,True,correct
+test,"Mettre li dans cellule degrisement, et largue li gramatin","Met li dans cellule degrisement, et largue li gramatin.","Met li dans cellule degrisement, et largue li gramatin.",0.0,0.0,True,correct
+test,Combien points li gagner?,Combien points li gagne?,Combien points li gagne?,0.0,0.0,True,correct
+test,..... Koumadir enn papa pe gagn enn bel maloker e ena enn lanvi bien for pou vomi.... Me vomi la pale sorti e sa pe donn enn bel douler latet.... E bann zanfan zot bien inkiete pou papa la?,..... Kumadir enn papa pe gagne enn bel maloker et ena enn anvi bien for pu vomi.... Me vomi la pale sorti et sa pe donne enn bel douler latet.... Et bann zanfan zot bien inkiete pu papa la?,..... Kumadir enn papa pe gagne enn bel maloker et ena enn anvi bien for pu vomi.... Me vomi la pale sorti et sa pe donne enn bel douler latet.... Et bann zanfan zot bien inkiete pu papa la?,0.0,0.0,True,correct
+test,"[NAME], gro chatwa","[NAME], gro chatwa.","[NAME], gro chatwa.",0.0,0.0,True,correct
+test,Sabre la pou ça banne felone poudre d'or la sa,Sabre la pu sa bann felone poudre d'or la sa.,Sabre la pu sa bann felone poudre d'or la sa.,0.0,0.0,True,correct
+test,Lettre de transfer prend 3 mois pu vini.... Zot dire ou fini poster et janais gagne lettre la,Lettre de transfer prend 3 mois pu vini.... Zot dire ou fini poste et zame gagne lettre la.,Lettre de transfer prend 3 mois pu vini.... Zot dire ou fini poste et zame gagne lettre la.,0.0,0.0,True,correct
+test,Incroyable mais vrai,Incroyable mais vrai.,Incroyable mais vrai.,0.0,0.0,True,correct
+test,Certain dimun ena 10 loto mais garage zot pena,Certain dimunn ena 10 loto mais garage zot pena.,Certain dimunn ena 10 loto mais garage zot pena.,0.0,0.0,True,correct
+test,"In fini truv le vre meurtrier, c ou garson mem","Inn fini truve le vre meurtrier, se ou garson mem.","Inn fini truve le vre meurtrier, se ou garson mem.",0.0,0.0,True,correct
+test,Hans ici si pou fr pareil la😒,Hans ici si pu fer pareil la.😒,Hans ici si pu fer pareil la.😒,0.0,0.0,True,correct
+test,Qui faire pas mettre so nom,Qui faire pas met so nom?,Qui faire pas met so nom?,0.0,0.0,True,correct
+test,"Pena aucaine façon pour redress situations a maurice. Fini depasser. 35% populations loyale, bizin reste solidaire et vigilant","Pena okenn façon pour redress situations a Maurice. Fini depasse. 35% populations loyale, bizin reste solidaire et vigilant.","Pena okenn façon pour redress situations a Maurice. Fini depasse. 35% populations loyale, bizin reste solidaire et vigilant.",0.0,0.0,True,correct
+test,Ey fer honter sa ta to p vin cokain gran manier fizi dan la main pou to cokain zis 3 gazuese to aller🤣🤣🤣,Ey fer honte sa ta! To pe vinn kokin gran maniere fizi dan la main pu to kokin zis 3 gazuese to ale.🤣🤣🤣,Ey fer honte sa ta! To pe vinn kokin gran maniere fizi dan la main pu to kokin zis 3 gazuese to ale.🤣🤣🤣,0.0,0.0,True,correct
+test,Sunday moloyo pu la main puri,Sunday moloyo pu la main puri.,Sunday moloyo pu la main puri.,0.0,0.0,True,correct
+test,"P encor done zot role apres p craze nu fess, mari chatwa mm sa","Pe ankor donne zot role apre pe kraze nu fesse, mari chatwa mem sa.","Pe ankor donne zot role apre pe kraze nu fesse, mari chatwa mem sa.",0.0,0.0,True,correct
+test,Camion la full entord... Mais ene zafer louche..¾ camion la fini sorti.. Couma soffeur van la pane trouve li?,Camion la full antor... Mais enn zafer louche..¾ camion la fini sorti.. Kuma sofer van la pann truve li?,Camion la full antor... Mais enn zafer louche..¾ camion la fini sorti.. Kuma sofer van la pann truve li?,0.0,0.0,True,correct
+test,"[NAME], ena pet name macarena","[NAME], ena pet name Macarena.","[NAME], ena pet name Macarena.",0.0,0.0,True,correct
+test,Plis importan pena persone ine blesser.... Thanks god.... Dan plass fer. Bane comment negatif 😊,Plis important pena personne inn blesse.... Thanks God.... Dan plas fer bann comment negatif. 😊,Plis important pena personne inn blesse.... Thanks God.... Dan plas fer bann comment negatif. 😊,0.0,0.0,True,correct
+test,Sa episode juste wow,Sa episode just wow.,Sa episode just wow.,0.0,0.0,True,correct
+test,Si pa tiena permis a point 🙂. Mes sympathies 😢,Si pa ti ena permis a point. 🙂 Mes sympathies. 😢,Si pa ti ena permis a point. 🙂 Mes sympathies. 😢,0.0,0.0,True,correct
+test,Ti bizen pena travay sa,Ti bizin pena travail sa.,Ti bizin pena travail sa.,0.0,0.0,True,correct
+test,"[NAME], toi to pa pe coze kk","[NAME], toi to pa pe koze kaka.","[NAME], toi to pa pe koze kaka.",0.0,0.0,True,correct
+test,Partous arnaqers,Partu arnaqers.,Partu arnaqers.,0.0,0.0,True,correct
+test,ARET GRINSE TO LAGUELLE TA,ARET GRINSE TO LAGEL TA.,ARET GRINSE TO LAGEL TA.,0.0,0.0,True,correct
+test,We all have a donald in our respective country.. Usa: donald trump. Mauritius: donald duck,We all have a donald inn our respective country.. Usa: Donald Trump. Mauritius: Donald Duck.,We all have a donald inn our respective country.. Usa: Donald Trump. Mauritius: Donald Duck.,0.0,0.0,True,correct
+test,Pou empess lichien al consilter,Pu anpes lisyin ale consilte.,Pu anpes lisyin ale consilte.,0.0,0.0,True,correct
+test,"[NAME], la mange caviar ek langouste nous nous mange sardine ek pilchards","[NAME], la manze caviar ek langouste. Nous nous manze sardine ek pilchards.","[NAME], la manze caviar ek langouste. Nous nous manze sardine ek pilchards.",0.0,0.0,True,correct
+test,Nous pou change government so la vie en 2029,Nous pu change government so lavi en 2029.,Nous pu change government so lavi en 2029.,0.0,0.0,True,correct
+test,"[NAME], paret to 1robocup to lecorp fair tw trvy 24/7","[NAME], paret to 1 robocup to lekor fer twa travail 24/7.","[NAME], paret to 1 robocup to lekor fer twa travail 24/7.",0.0,0.0,True,correct
+test,Fromage? 🧀 chat ki p tirer ou lerat?,Fromage? 🧀 chat ki pe tire ou lerat?,Fromage? 🧀 chat ki pe tire ou lerat?,0.0,0.0,True,correct
+test,Zamain ou inn tan dire ferme la porte dormi...🤷🏻...,Zame ou inn tande dire ferme la porte dormi...🤷🏻...,Zame ou inn tande dire ferme la porte dormi...🤷🏻...,0.0,0.0,True,correct
+test,Trop triste🥺... Courage à la famille😔,Trop triste🥺... Courage à la famille.😔,Trop triste🥺... Courage à la famille.😔,0.0,0.0,True,correct
+test,Zot humaine ministère qui fauter,Zot humain ministère qui fauter?,Zot humain ministère qui fauter?,0.0,0.0,True,correct
+test,Ena 1 différence entre thc et thd 🙄. Sur ce.. Arret perdi nous letemps 😑,Ena 1 différence entre THC et THD. 🙄 Sur se.. Aret perdi nous letan. 😑,Ena 1 différence entre THC et THD. 🙄 Sur se.. Aret perdi nous letan. 😑,0.0,0.0,True,correct
+test,Mo croire ine arive ler pou fer seki bizin fer,Mo croire inn arrive ler pu fer seki bizin fer.,Mo croire inn arrive ler pu fer seki bizin fer.,0.0,0.0,True,correct
+test,Toute longue to lavie to fine juste penser kuma to pour apauvrit banne morisien,Toute longue to lavi to finn just pense kuma to pour apauvrit bann Morisien.,Toute longue to lavi to finn just pense kuma to pour apauvrit bann Morisien.,0.0,0.0,True,correct
+test,Rode ene terrain et monte ene parking area with max. Height,Rode enn terrain et monte enn parking area with max. Height.,Rode enn terrain et monte enn parking area with max. Height.,0.0,0.0,True,correct
+test,"[NAME], pareil kuma flic en flac hier laa😢","[NAME], pareil kuma Flic en Flac hier la.😢","[NAME], pareil kuma Flic en Flac hier la.😢",0.0,0.0,True,correct
+test,Berenger fine casse so someil. B Navin p net dodo,Berenger finn kase so somey. B Navin pe net dodo.,Berenger finn kase so somey. B Navin pe net dodo.,0.0,0.0,True,correct
+test,Eski pu fer alcohol test ek ban policier on duty🧐,Eski pu fer alcohol test ek bann policier on duty?🧐,Eski pu fer alcohol test ek bann policier on duty?🧐,0.0,0.0,True,correct
+test,Kuma mo habitier dire. Foder ena cuyon pu malin cav vive,Kuma mo habitier dire. Fode ena kuyon pu malin kapav viv.,Kuma mo habitier dire. Fode ena kuyon pu malin kapav viv.,0.0,0.0,True,correct
+test,Li ti p sof.. Line p mnge briyani sa mm li in vol pepsi,Li ti pe sof.. Linn pe manze briyani samem linn vol Pepsi.,Li ti pe sof.. Linn pe manze briyani samem linn vol Pepsi.,0.0,0.0,True,correct
+test,Baron la drogue,Baron la drogue.,Baron la drogue.,0.0,0.0,True,correct
+test,Bizein bour li endans..! Fair musulman honter..! Principe o sa boug la,Bizin boure li endan..! Fer Musulman honte..! Principe o sa boug la.,Bizin boure li endan..! Fer Musulman honte..! Principe o sa boug la.,0.0,0.0,True,correct
+test,"[NAME], baratain🤣🤣","[NAME], baratain.🤣🤣","[NAME], baratain.🤣🤣",0.0,0.0,True,correct
+test,Sa ban dimoune labas la ena problem la santer... Zot gagne gratter kan zot trouve la police 😂😂😂😂,Sa bann dimunn laba la ena problem la sante... Zot gagne grate kan zot truve la police. 😂😂😂😂,Sa bann dimunn laba la ena problem la sante... Zot gagne grate kan zot truve la police. 😂😂😂😂,0.0,0.0,True,correct
+test,Karma will hit soon,Karma will hit soon.,Karma will hit soon.,0.0,0.0,True,correct
+test,Et politiciens???,Et politiciens???,Et politiciens???,0.0,0.0,True,correct
+test,Li paraît 1 escro sa bougre la,Li paret 1 escro sa boug la.,Li paret 1 escro sa boug la.,0.0,0.0,True,correct
+test,Zot aller ek visit surprise. That's a blatant lie. Tou dimoune conner kan misnistre fer visit. Al khiz pa dire moi pu pa conne sa jouer la,Zot ale ek visit surprise. That's a blatant lie. Tu dimunn kone kan misnistre fer visit. Al Khiz pa dire moi pu pa kone sa jouer la.,Zot ale ek visit surprise. That's a blatant lie. Tu dimunn kone kan misnistre fer visit. Al Khiz pa dire moi pu pa kone sa jouer la.,0.0,0.0,True,correct
+test,Valeur du jours les materialism et sans moralité au dessus de la consciences spiritual,Valeur du jours les materialism et sans moralité au dessus de la consciences spiritual.,Valeur du jours les materialism et sans moralité au dessus de la consciences spiritual.,0.0,0.0,True,correct
+test,"[NAME],.. Ounn gard ou sang froid... Samem inn sov ou.","[NAME],.. Ou garde ou sang froid... Samem inn sove ou.","[NAME],.. Ou garde ou sang froid... Samem inn sove ou.",0.0,0.0,True,correct
+test,B li Pena zenfant,B li pena zanfan?,B li pena zanfan?,0.0,0.0,True,correct
+test,"[NAME], DIABLE VEILLE CAMPHE","[NAME], DIABLE VEILLE CAMPHE.","[NAME], DIABLE VEILLE CAMPHE.",0.0,0.0,True,correct
+test,Pu virus pa rentrEE.,Pu virus pa rantre.,Pu virus pa rantre.,0.0,0.0,True,correct
+test,So ban advisor p dne li mov info.. Bizin voyage dan bus ou osi boss,So bann advisor pe donne li move info.. Bizin voyage dan bus ou osi boss.,So bann advisor pe donne li move info.. Bizin voyage dan bus ou osi boss.,0.0,0.0,True,correct
+test,Kot manager lopital la quand li pou en post,Kot manager lopital la? Quand li pu en post?,Kot manager lopital la? Quand li pu en post?,0.0,0.0,True,correct
+test,en espérant ki zanffann la guéri vite 🙏,En espérant ki zanfan la guéri vite. 🙏,En espérant ki zanfan la guéri vite. 🙏,0.0,0.0,True,correct
+test,Sa gate la pou partager sa cki pena gate vine chercher,Sa gate la pu partage sa seki pena gate vinn cherche.,Sa gate la pu partage sa seki pena gate vinn cherche.,0.0,0.0,True,correct
+test,"[NAME], so cofre fini retournner","[NAME], so kof fini retourne.","[NAME], so kof fini retourne.",0.0,0.0,True,correct
+test,Cot sabre la,Kot sabre la?,Kot sabre la?,0.0,0.0,True,correct
+test,Tous comersant bien bizin gard ene sabre cot zot la caise... Kouma ene fatra nek rentré bez cout sabre brit... Apres ava gueter dan la cour,Tu comersant bien bizin garde enn sabre kot zot la caise... Kuma enn fatra nek rantre bez kut sabre brit... Apre ava get dan lakour.,Tu comersant bien bizin garde enn sabre kot zot la caise... Kuma enn fatra nek rantre bez kut sabre brit... Apre ava get dan lakour.,0.0,0.0,True,correct
+test,Sa l'annee la p paret nous pou kas record mort dans accident. Janvier pas encore fini meme tousa accident la,Sa lane la pe paret nous pu kase record mort dans accident. Janvier pas encore fini mem tusa accident la.,Sa lane la pe paret nous pu kase record mort dans accident. Janvier pas encore fini mem tusa accident la.,0.0,0.0,True,correct
+test,Tou en poudre mem,Tu en poudre mem.,Tu en poudre mem.,0.0,0.0,True,correct
+test,Employe plis personel afin ki tou kav ggn travail lor 1 shift raisonable... Pski arret service medical 24/7 li impensable sa.. A nimporte ki moment kav arrive 1 problem🤷‍♀️,Employe plis personel afin ki tu kapav gagne travail lor 1 shift raisonable... Parski aret service medical 24/7 li impensable sa.. A nerport ki moment kapav arrive 1 problem.🤷‍♀️,Employe plis personel afin ki tu kapav gagne travail lor 1 shift raisonable... Parski aret service medical 24/7 li impensable sa.. A nerport ki moment kapav arrive 1 problem.🤷‍♀️,0.0,0.0,True,correct
+test,Boussou,Boussou.,Boussou.,0.0,0.0,True,correct
+test,Les danger public faut enlever leur permis et voiture saisi definitivement,Les danger public faut enleve leur permis et voiture saisi definitivement.,Les danger public faut enleve leur permis et voiture saisi definitivement.,0.0,0.0,True,correct
+test,"[NAME], nous gagne l'amende si saleté comme ça devant nous la porte..","[NAME], nous gagne l'amende si salte comme sa devant nous la porte..","[NAME], nous gagne l'amende si salte comme sa devant nous la porte..",0.0,0.0,True,correct
+test,ROLE COAST GUARD KIETERRR???,ROLE COAST GUARD KIETE???,ROLE COAST GUARD KIETE???,0.0,0.0,True,correct
+test,Tou sa lasen la oblizer ena laho 40 a 50 lb poison sa. Sa travail la mo coner. Kot poison la ete? Bizin montre exhibit ek so gomon so poison tou. B lasen la in fini netoiyer met prop tou!,Tusa lasen la oblize ena lao 40 a 50 lb pwason sa. Sa travail la mo kone. Kot pwason la ete? Bizin montre exhibit ek so gomon so pwason tu. B lasen la inn fini netway met prop tu!,Tusa lasen la oblize ena lao 40 a 50 lb pwason sa. Sa travail la mo kone. Kot pwason la ete? Bizin montre exhibit ek so gomon so pwason tu. B lasen la inn fini netway met prop tu!,0.0,0.0,True,correct
+test,Si li ti blesse mo famille mo ti pou bill li ziska li piss dans so cançon,"Si li ti blesse mo famille, mo ti pu bill li ziska li piss dans so canosn.","Si li ti blesse mo famille, mo ti pu bill li ziska li piss dans so canosn.",0.0,0.0,True,correct
+test,"[NAME], ine aret pren poule aster, li pren canard","[NAME], inn aret pran poule aster, li pran canard.","[NAME], inn aret pran poule aster, li pran canard.",0.0,0.0,True,correct
+test,Eski la defunte pna ene membre de la famille ki pou kpave pren en charge sa bébé la?? Mo pa senti ki sa zenfant la pou korek ek sa canibal la so famille,Eski la defunte pena enn membre de la famille ki pu kapav pran en charge sa bébé la?? Mo pa senti ki sa zanfan la pu korek ek sa kanibal la so famille.,Eski la defunte pena enn membre de la famille ki pu kapav pran en charge sa bébé la?? Mo pa senti ki sa zanfan la pu korek ek sa kanibal la so famille.,0.0,0.0,True,correct
+test,Les guignols des casernes..🥴,Les guignols des Casernes..🥴,Les guignols des Casernes..🥴,0.0,0.0,True,correct
+test,Enta system p met en place pu narien.... P met a point pu reduce accident etc.. Mo trouve pli aller accident p augmente eu... Tou sa ban system la dan vide sa... Mo trv sa c juste 1 facon p bez cash sa.,Enta system pe met en place pu nanyin.... Pe met a point pu reduce accident etc.. Mo truve plis ale accident pe augmente eu... Tusa bann system ladan vide sa... Mo truve sa se just 1 facon pe bez cash sa.,Enta system pe met en place pu nanyin.... Pe met a point pu reduce accident etc.. Mo truve plis ale accident pe augmente eu... Tusa bann system ladan vide sa... Mo truve sa se just 1 facon pe bez cash sa.,0.0,0.0,True,correct
+test,Sha mo bb shaaaaa,Sa mo bebe sa.,Sa mo bebe sa.,0.0,0.0,True,correct
+test,"[NAME], en 2026, dimoun encore ena mentalité kuma ou? Kan li ti juré pou fer travail la, lerla line vine robot ou sois li encore humain?","[NAME], en 2026, dimunn encore ena mentalité kuma ou? Kan li ti juré pu fer travail la, lerla linn vinn robot ouswa li encore humain?","[NAME], en 2026, dimunn encore ena mentalité kuma ou? Kan li ti juré pu fer travail la, lerla linn vinn robot ouswa li encore humain?",0.0,0.0,True,correct
+test,"10 roupie tombé lor chemin seki pa pou li aussi fini vine propriétaire, 114 millions pena propriétaire?? Pe zoué couk cassiète?? Angus road enkor pe fer l'enquette mem. Fcc met ene sèrié dow","10 roupie tombe lor chemin seki pa pu li aussi fini vinn propriétaire, 114 millions pena propriétaire?? Pe zwe couk kasyet?? Angus road ankor pe fer lanket mem. FCC met enn serye dow.","10 roupie tombe lor chemin seki pa pu li aussi fini vinn propriétaire, 114 millions pena propriétaire?? Pe zwe couk kasyet?? Angus road ankor pe fer lanket mem. FCC met enn serye dow.",0.0,0.0,True,correct
+test,Van la p rod l'assurance sa,Van la pe rode l'assurance sa.,Van la pe rode l'assurance sa.,0.0,0.0,True,correct
+test,B la ki zot pou fer avec sa bane poisson la,B la ki zot pu fer avec sa bann poisson la?,B la ki zot pu fer avec sa bann poisson la?,0.0,0.0,True,correct
+test,Nuvo wi pu public b zot mem pa res p narien,"Nuvo wi pu public, b zot mem pa res pe nanyin.","Nuvo wi pu public, b zot mem pa res pe nanyin.",0.0,0.0,True,correct
+test,"[NAME], saki ti p rod amen cigarette laa. In prend 1 pou fumer tousa zeffort li fr laa😂","[NAME], seki ti pe rode amenn cigarette la. Inn prend 1 pu fume tusa zefor li fer la.😂","[NAME], seki ti pe rode amenn cigarette la. Inn prend 1 pu fume tusa zefor li fer la.😂",0.0,0.0,True,correct
+test,Headquarter la Police pa Caserne sa?,Headquarter la police pa Casernes sa?,Headquarter la police pa Casernes sa?,0.0,0.0,True,correct
+test,Sa oui progrès par malediction,"Sa oui, progrès par malediction.","Sa oui, progrès par malediction.",0.0,0.0,True,correct
+test,B sayer 1 fois,B sayer 1 fois.,B sayer 1 fois.,0.0,0.0,True,correct
+test,Public la bas ti bizin Fer li desouler ar bater mem li mort koumsa la loi pas ti pour kapav ferme tous public,Public laba ti bizin fer li desouler ar bate mem li mort. Kumsa la loi pas ti pour kapav ferme tu public.,Public laba ti bizin fer li desouler ar bate mem li mort. Kumsa la loi pas ti pour kapav ferme tu public.,0.0,0.0,True,correct
+test,Kan mo dir où ’karma’ p vini 🫵,Kan mo dir ou ’karma’ pe vini. 🫵,Kan mo dir ou ’karma’ pe vini. 🫵,0.0,0.0,True,correct
+test,"[NAME], bizin met gros l'amende... Nek laguerre tou le jours","[NAME], bizin met gros l'amende... Nek lager tulezur.","[NAME], bizin met gros l'amende... Nek lager tulezur.",0.0,0.0,True,correct
+test,B nene caver bizn al rod licien la ci la non,B nene kave? Bizin ale rode lisyin la si la non.,B nene kave? Bizin ale rode lisyin la si la non.,0.0,0.0,True,correct
+test,Eski pu amene sa comme alibi dans la cour ou zot famille pu alle bourer,Eski pu amenn sa comme alibi dans lakour ou zot famille pu ale boure?,Eski pu amenn sa comme alibi dans lakour ou zot famille pu ale boure?,0.0,0.0,True,correct
+test,"Mo croire apres cotomili rentrer, pou ena lock out","Mo croire apre cotomili rantre, pu ena lock out.","Mo croire apre cotomili rantre, pu ena lock out.",0.0,0.0,True,correct
+test,Policier la enfant li,Policier la enfant li.,Policier la enfant li.,0.0,0.0,True,correct
+test,Kan pou arrete fer rallye moto dan maurice??? Ban parent ki zot zenfant fer rallye ki ena pou dire??,Kan pu aret fer rally moto dan Maurice??? Bann parent ki zot zanfan fer rally ki ena pu dire??,Kan pu aret fer rally moto dan Maurice??? Bann parent ki zot zanfan fer rally ki ena pu dire??,0.0,0.0,True,correct
+test,Demain sa ban meme dimounes la pou cpve trvail 24/7 dan priver,Demain sa bann mem dimunn la pu kapav trvail 24/7 dan prive.,Demain sa bann mem dimunn la pu kapav trvail 24/7 dan prive.,0.0,0.0,True,correct
+test,"Toutou, zanimo, mem contan a bas de lage","Toutou, zanimo, mem kontan a bas de laz.","Toutou, zanimo, mem kontan a bas de laz.",0.0,0.0,True,correct
+test,"Aucun limportance toi ek to lekip nepli ena pu lepep, sayer aler, aret fr cinema","Aucun linportans toi ek to lekip nepli ena pu lepep, sayer ale, aret fer cinema.","Aucun linportans toi ek to lekip nepli ena pu lepep, sayer ale, aret fer cinema.",0.0,0.0,True,correct
+test,Hats off to you li pas facile vraiment sa boulot,Hats off to you. Li pas facile vraiment sa boulot.,Hats off to you. Li pas facile vraiment sa boulot.,0.0,0.0,True,correct
+test,"[NAME], sa bien dire sa👍👍","[NAME], sa bien dire sa.👍👍","[NAME], sa bien dire sa.👍👍",0.0,0.0,True,correct
+test,Boss zoin mw... Mo fr ou trv la justice,Boss zwen mwa... Mo fer ou truve la justice.,Boss zwen mwa... Mo fer ou truve la justice.,0.0,0.0,True,correct
+test,Incompetent dan tou secteur mem dan leducation!!!,Incompetent dan tu secteur mem dan ledikasyon!!!,Incompetent dan tu secteur mem dan ledikasyon!!!,0.0,0.0,True,correct
+test,Mersi a shakeel pu met nite life a portlouis,Mersi a Shakeel pu met night life a Port Louis.,Mersi a Shakeel pu met night life a Port Louis.,0.0,0.0,True,correct
+test,Ki ete sa enkor,Ki ete sa ankor?,Ki ete sa ankor?,0.0,0.0,True,correct
+test,"De tte façon cyclone la vine ziss weekend sa, li vine promener apres li aller dimanche tanto... Lundi reprend normal🤣","De toute façon cyclone la vinn zis weekend sa, li vinn promener apre li ale dimanche tanto... Lundi reprend normal.🤣","De toute façon cyclone la vinn zis weekend sa, li vinn promener apre li ale dimanche tanto... Lundi reprend normal.🤣",0.0,0.0,True,correct
+test,Ena c pa p bat lisie p vellier mem ariv 1 problem..... Dapre comment la zot 1 ban parent ideal zamer zenfant pan gagn 1 ti booboo..... Samem apel zenfant sa fraction limit gagn 1 zfr puvi zenfant la bien lin retruv so famille,Ena se pa pe bate lizye pe veye mem arrive 1 problem..... Dapre comment la zot 1 bann parent ideal zame zanfan pann gagne 1 ti booboo..... Samem apel zanfan sa fraction limit gagne 1 zafer puvi zanfan la bien linn retrouve so famille.,Ena se pa pe bate lizye pe veye mem arrive 1 problem..... Dapre comment la zot 1 bann parent ideal zame zanfan pann gagne 1 ti booboo..... Samem apel zanfan sa fraction limit gagne 1 zafer puvi zanfan la bien linn retrouve so famille.,0.0,0.0,True,correct
+test,Lii pas p kokein lii.... Liin pass so carte liberte dns supermarche 🫡😁,Li pas pe kokin li.... Linn passe so carte liberte dans sipermarket. 🫡😁,Li pas pe kokin li.... Linn passe so carte liberte dans sipermarket. 🫡😁,0.0,0.0,True,correct
+test,La Gare le nord labas ki ena tamtam,La gare le nord laba ki ena tamtam.,La gare le nord laba ki ena tamtam.,0.0,0.0,True,correct
+test,Ki ministère to occupE?,Ki ministère to occupe?,Ki ministère to occupe?,0.0,0.0,True,correct
+test,Faire un système abonnement avec un prix pou dimoune content,Faire un système abonnement avec un prix pu dimunn kontan.,Faire un système abonnement avec un prix pu dimunn kontan.,0.0,0.0,True,correct
+test,"Paix a ton ame jeune homme, très triste pour la familles.","Paix a ton ame jeune homme, très triste pour la famille.","Paix a ton ame jeune homme, très triste pour la famille.",0.0,0.0,True,correct
+test,Prend renseignement bien svp avant posté!!,Prend renseignement bien svp avant poste!!,Prend renseignement bien svp avant poste!!,0.0,0.0,True,correct
+test,Ena speed limit labas ki vitesse li p roulé😡,Ena speed limit laba. Ki vites li pe roule?😡,Ena speed limit laba. Ki vites li pe roule?😡,0.0,0.0,True,correct
+test,Parce ki zotte pas alle gette li faire so comic,Parski zot pas ale get li faire so comik.,Parski zot pas ale get li faire so comik.,0.0,0.0,True,correct
+test,Re confinement,Re confinement.,Re confinement.,0.0,0.0,True,correct
+test,cki ena bel lakaz ki pu gagne sa enkor,Seki ena bel lakaz ki pu gagne sa ankor.,Seki ena bel lakaz ki pu gagne sa ankor.,0.0,0.0,True,correct
+test,Ni la banque ena nom ni employee ena nom. Es ki li bizarre sa?,Ni la banque ena nom ni employee ena nom. Eski li bizar sa?,Ni la banque ena nom ni employee ena nom. Eski li bizar sa?,0.0,0.0,True,correct
+test,Pas inspecteur bohhomme c est un recruit,"Pas inspecteur bohhomme, se un recruit.","Pas inspecteur bohhomme, se un recruit.",0.0,0.0,True,correct
+test,"partou kot ena cambridge exams sa. dans linde, pakistan, malaysie tou pareille","Partu kot ena Cambridge exams sa. Dans Inde, Pakistan, Malaysie tu pareil.","Partu kot ena Cambridge exams sa. Dans Inde, Pakistan, Malaysie tu pareil.",0.0,0.0,True,correct
+test,Moi pas chagrin ban testé positif lor volant. Sorry,Moi pas chagrin bann testé positif lor volant. Sorry.,Moi pas chagrin bann testé positif lor volant. Sorry.,0.0,0.0,True,correct
+test,Bisin kasse so la main vrememe sa coup la,Bizin kase so la main vremem sa kut la.,Bizin kase so la main vremem sa kut la.,0.0,0.0,True,correct
+test,Arette guette film lor netflix,Aret get film lor Netflix.,Aret get film lor Netflix.,0.0,0.0,True,correct
+test,Ki li p pense bangladesh ici..,Ki li pe pense Bangladesh ici..,Ki li pe pense Bangladesh ici..,0.0,0.0,True,correct
+test,Sa veut dire bizin ine enregistrer bane cas dans Moris 😑,Sa veut dire bizin inn enregistre bann cas dans Moris. 😑,Sa veut dire bizin inn enregistre bann cas dans Moris. 😑,0.0,0.0,True,correct
+test,Dieu protez nou ti zil,Dieu protez nu ti lil.,Dieu protez nu ti lil.,0.0,0.0,True,correct
+test,Combien zelèves ine reussi vine millionaire r crypto king,Combien zelev inn resi vinn millionaire ar crypto king?,Combien zelev inn resi vinn millionaire ar crypto king?,0.0,0.0,True,correct
+test,express to ti labas tone trouver?? p tire fusil to pane trouver??,Express to ti laba tonn truve?? Pe tire fusil to pann truve??,Express to ti laba tonn truve?? Pe tire fusil to pann truve??,0.0,0.0,True,correct
+test,Dragon p crache du feu,Dragon pe crache du feu.,Dragon pe crache du feu.,0.0,0.0,True,correct
+test,Aster la si li dire sa.... Suremen li pa en bon term r zot aster,Aster la si li dire sa.... Surement li pa en bon term ar zot aster.,Aster la si li dire sa.... Surement li pa en bon term ar zot aster.,0.0,0.0,True,correct
+test,Ki lanné sah svp,Ki lane sa svp?,Ki lane sa svp?,0.0,0.0,True,correct
+test,B BANE POISSON EK BANE ANGUILLE LABA LA... VEG SA SVP?? 😌,B BANN POISSON EK BANN ANGUILLE LABA LA... VEG SA SVP?? 😌,B BANN POISSON EK BANN ANGUILLE LABA LA... VEG SA SVP?? 😌,0.0,0.0,True,correct
+test,Fizi delo sa ton,Fizi dilo sa ton.,Fizi dilo sa ton.,0.0,0.0,True,correct
+test,"[NAME], mo ti douter employees..","[NAME], mo ti doute employees..","[NAME], mo ti doute employees..",0.0,0.0,True,correct
+test,Tir sa dooo. P fini nou cassse,Tire sa dow. Pe fini nu kase.,Tire sa dow. Pe fini nu kase.,0.0,0.0,True,correct
+test,Hmm... In ggne curry pour l'anne la.😅,Hmm... Inn gagne curry pour lane la.😅,Hmm... Inn gagne curry pour lane la.😅,0.0,0.0,True,correct
+test,Kan pou fini empirer ki pou tander la p prend precaution aprés nou pou tander,"Kan pu fini empirer ki pu tande, la pe prend precaution apre nu pu tande.","Kan pu fini empirer ki pu tande, la pe prend precaution apre nu pu tande.",0.0,0.0,True,correct
+test,Ala mousse caca lors baz,Ala mousse kaka lor baz.,Ala mousse kaka lor baz.,0.0,0.0,True,correct
+test,"Sa bann crypto qnet, dollars jet, ponzi scheme, pyramid scheme,,, tou fausse net sa... Bizin are sa bann mafia la","Sa bann crypto qnet, dollars jet, ponzi scheme, pyramid scheme, tu fausse net sa... Bizin ar sa bann mafia la.","Sa bann crypto qnet, dollars jet, ponzi scheme, pyramid scheme, tu fausse net sa... Bizin ar sa bann mafia la.",0.0,0.0,True,correct
+test,Sofer pa cav roule la haut 110 lor ene sime ki ena rush ale fer sa sime nef. La si li ti pu touye innocent la dans place camion ti 1 dimoune sapa 1 enfant. Taaa met seryer ban sofer soi si to en retard apran sorti boner,Sofer pa kapav roule la haut 110 lor enn sime ki ena rush ale fer sa sime nef. La si li ti pu touy innocent ladan place camion ti 1 dimunn sapa 1 enfant. Ta met serye bann sofer soi si to en retard aprann sorti boner.,Sofer pa kapav roule la haut 110 lor enn sime ki ena rush ale fer sa sime nef. La si li ti pu touy innocent ladan place camion ti 1 dimunn sapa 1 enfant. Ta met serye bann sofer soi si to en retard aprann sorti boner.,0.0,0.0,True,correct
+test,Après 9ans ki li dire sa?,Après 9 ans ki li dire sa?,Après 9 ans ki li dire sa?,0.0,0.0,True,correct
+test,Avocat la mem 1 nerport sa et li 1 membre Gang du Sud et zot Avocat perso,Avocat lamem 1 nerport sa et li 1 membre Gang du Sud et zot avocat perso.,Avocat lamem 1 nerport sa et li 1 membre Gang du Sud et zot avocat perso.,0.0,0.0,True,correct
+test,Manman bien smart,Manman bien smart.,Manman bien smart.,0.0,0.0,True,correct
+test,"[NAME], ban la ine vine kouma dir ki kantité coupab mo kpv fer liberer lor caution sa mois la?","[NAME], banla inn vinn kumadir ki kantite coupable mo kapav fer liberer lor caution sa mois la?","[NAME], banla inn vinn kumadir ki kantite coupable mo kapav fer liberer lor caution sa mois la?",0.0,0.0,True,correct
+test,Bizin éna 1 l'assurance pour couvert ek protège zot clients,Bizin ena 1 l'assurance pour couvert ek protège zot clients.,Bizin ena 1 l'assurance pour couvert ek protège zot clients.,0.0,0.0,True,correct
+test,Sa trois travail la bisin obliger ena dans 1 l'hôpital. Any time kapav ena 1 naissance ki bisin cs.. Pas sa ler la pou alle rode docs,Sa trois travail la bizin oblize ena dans 1 l'hôpital. Anytime kapav ena 1 naissance ki bizin CS.. Pas sa ler la pu ale rode doctors.,Sa trois travail la bizin oblize ena dans 1 l'hôpital. Anytime kapav ena 1 naissance ki bizin CS.. Pas sa ler la pu ale rode doctors.,0.0,0.0,True,correct
+test,"[NAME], fini ggne 1 ans... Si ti ena kitchose pas ti bizin fer l'enquête... Et convoc li","[NAME], fini gagne 1 ans... Si ti ena kitsoz pas ti bizin fer l'enquête... Et convoc li.","[NAME], fini gagne 1 ans... Si ti ena kitsoz pas ti bizin fer l'enquête... Et convoc li.",0.0,0.0,True,correct
+test,"[NAME], li p fer tou couma pour to cash","[NAME], li pe fer tu kuma pour to cash.","[NAME], li pe fer tu kuma pour to cash.",0.0,0.0,True,correct
+test,Ziskakan?,Ziska kan?,Ziska kan?,0.0,0.0,True,correct
+test,Capav so conscience p reproche li lu pa facile pou vivre avec 1 poids aussi lourd comsa,Kapav so conscience pe reproche li. Li pa facile pu viv avec 1 poids aussi lourd kumsa.,Kapav so conscience pe reproche li. Li pa facile pu viv avec 1 poids aussi lourd kumsa.,0.0,0.0,True,correct
+test,"[NAME], b wiiii.. Conner ek ki p gagne zfr 😀","[NAME], b oui.. Kone ek ki pe gagne zafer. 😀","[NAME], b oui.. Kone ek ki pe gagne zafer. 😀",0.0,0.0,True,correct
+test,Bizin koner ki lopital,Bizin kone ki lopital.,Bizin kone ki lopital.,0.0,0.0,True,correct
+test,"[NAME], veut dire zelev ine vine moin malin","[NAME], veut dire zelev inn vinn moin malin.","[NAME], veut dire zelev inn vinn moin malin.",0.0,0.0,True,correct
+test,"Pou qui li chien, les rats, cancrelats pas rentre dans l'hopital.","Pu qui lisyin, les rats, cancrelats pas rantre dans lopital.","Pu qui lisyin, les rats, cancrelats pas rantre dans lopital.",0.0,0.0,True,correct
+test,Mett nom svp,Met nom svp.,Met nom svp.,0.0,0.0,True,correct
+test,"[NAME], pna prise pou met sarzere","[NAME], pena prise pu met sarzere.","[NAME], pena prise pu met sarzere.",0.0,0.0,True,correct
+test,Bizin Faire 1 way partout,Bizin faire 1 way partu.,Bizin faire 1 way partu.,0.0,0.0,True,correct
+test,"ala to changement, ala to rupture ki ti promet toi","Ala to changement, ala to rupture ki ti promet toi.","Ala to changement, ala to rupture ki ti promet toi.",0.0,0.0,True,correct
+test,manque role,Manque role.,Manque role.,0.0,0.0,True,correct
+test,Pena ene possibilité met la trape pou politiciens svp???,Pena enn possibilité met la trape pu politiciens svp???,Pena enn possibilité met la trape pu politiciens svp???,0.0,0.0,True,correct
+test,Mo sure piti la ine fini brile sa T shirt la,Mo sure piti la inn fini brile sa T-shirt la.,Mo sure piti la inn fini brile sa T-shirt la.,0.0,0.0,True,correct
+test,Eski ena lecole demain,Eski ena lekol demain?,Eski ena lekol demain?,0.0,0.0,True,correct
+test,"[NAME], 100 % dacord avec vous","[NAME], 100 % dakor avec vous.","[NAME], 100 % dakor avec vous.",0.0,0.0,True,correct
+test,[NAME] kot inn mette sa,[NAME] kot inn met sa?,[NAME] kot inn met sa?,0.0,0.0,True,correct
+test,Toule2 noyer en mem temp? 19. 30? Imp drole ein,Tulde noye en mem tan? 19. 30? Enpe drole ein.,Tulde noye en mem tan? 19. 30? Enpe drole ein.,0.0,0.0,True,correct
+test,penann role,Pena role.,Pena role.,0.0,0.0,True,correct
+test,3 credit dans content... Fer aranz 1 la chambre dan classe la mem zot rester,3 credit dans kontan... Fer aranz 1 la chambre dan classe lamem zot reste.,3 credit dans kontan... Fer aranz 1 la chambre dan classe lamem zot reste.,0.0,0.0,True,correct
+test,Sangat de morriisss🤣🤣🖕🏼,Sangat de Moris.🤣🤣🖕🏼,Sangat de Moris.🤣🤣🖕🏼,0.0,0.0,True,correct
+test,😂😂😂 fairr to piti vinne doctor après to fairr donation so la vie l’hôpital. Kand to pas cav fairr li pas vinne rode donation la vie lezot dimoune so zenfant. Claire?,😂😂😂 fer to piti vinn doctor après to fer donation so lavi l’hôpital. Kan to pas kapav fer li pas vinn rode donation lavi lezot dimunn so zanfan. Claire?,😂😂😂 fer to piti vinn doctor après to fer donation so lavi l’hôpital. Kan to pas kapav fer li pas vinn rode donation lavi lezot dimunn so zanfan. Claire?,0.0,0.0,True,correct
+test,N kkliki dan boite tomate,Enn kakaliki dan boite tomate.,Enn kakaliki dan boite tomate.,0.0,0.0,True,correct
+test,Mentalités dimoune ziss lire zot bane commentaires montrer à qui point société la va mal. Si ti zot fami mo ti pou content geuter couma zot réagir dans ene situation ainsi,Mentalités dimunn zis lire zot bann commentaires montre à qui point société la va mal. Si ti zot fami mo ti pu kontan get kuma zot réagir dans enn situation ainsi.,Mentalités dimunn zis lire zot bann commentaires montre à qui point société la va mal. Si ti zot fami mo ti pu kontan get kuma zot réagir dans enn situation ainsi.,0.0,0.0,True,correct
+test,Pas vaut la peine 🤷🏼‍♀️ A waste of money,Pas vaut la peine 🤷🏼‍♀️ A waste of money.,Pas vaut la peine 🤷🏼‍♀️ A waste of money.,0.0,0.0,True,correct
+test,"Sorry misier, emtel pena myt money. All re reviser","Sorry misye, Emtel pena MY.T money. Ale re reviser.","Sorry misye, Emtel pena MY.T money. Ale re reviser.",0.0,0.0,True,correct
+test,La mer pu nou.. Nu gagne droit la peche... Taiwanais p baize nu poisson... Aret rode role coast guard,La mer pu nu.. Nu gagne droit lapess... Taiwanais pe bez nu poisson... Aret rode role coast guard.,La mer pu nu.. Nu gagne droit lapess... Taiwanais pe bez nu poisson... Aret rode role coast guard.,0.0,0.0,True,correct
+test,"Meme camion la entor, si van la pa ti pe en voler, li ti kpav eviter","Mem camion la antor, si van la pa ti pe en voler, li ti kapav evite.","Mem camion la antor, si van la pa ti pe en voler, li ti kapav evite.",0.0,0.0,True,correct
+test,Toujours mauritius police force.. Amateur,Toujours Mauritius police force.. Amateur.,Toujours Mauritius police force.. Amateur.,0.0,0.0,True,correct
+test,Cambridge ti fini faire conner ki correction pou pli severe ki pendant covid,Cambridge ti fini faire kone ki correction pu plis severe ki pendant Covid.,Cambridge ti fini faire kone ki correction pu plis severe ki pendant Covid.,0.0,0.0,True,correct
+test,Li ti p pense fam ki sa,Li ti pe pense fam ki sa.,Li ti pe pense fam ki sa.,0.0,0.0,True,correct
+test,connector tou?,Connector tu?,Connector tu?,0.0,0.0,True,correct
+test,Ki la banque???,Ki la banque???,Ki la banque???,0.0,0.0,True,correct
+test,Bizin met 1 laloi pou sa sino piss r zt...,Bizin met 1 lalwa pu sa sinon piss ar zot...,Bizin met 1 lalwa pu sa sinon piss ar zot...,0.0,0.0,True,correct
+test,Bane ki bizin fini prend retrait enkor la.... Apres zot coz grand cosé. Donne bon lexample zot meme,Bann ki bizin fini prend retrait ankor la.... Apre zot koze grand koze. Donne bon legzanp zot mem.,Bann ki bizin fini prend retrait ankor la.... Apre zot koze grand koze. Donne bon legzanp zot mem.,0.0,0.0,True,correct
+test,C lui mem ki fine dir tou et avoué ceki line fair dimoun subir avc sa bouche alor... C la vérité,Se lui mem ki finn dir tu et avoue seki linn fer dimunn subir avec sa bouche alor... Se la vérité.,Se lui mem ki finn dir tu et avoue seki linn fer dimunn subir avec sa bouche alor... Se la vérité.,0.0,0.0,True,correct
+test,"[NAME], tou dimun pa taper boss.. Dan 1 koler ou kav gat ou lavenir.. Ban droguer incorigable sa.. Servi ou lenergie kot bizin.","[NAME], tu dimunn pa tape boss.. Dan 1 koler ou kapav gat ou lavenir.. Bann droguer inkorizab sa.. Servi ou lenerzi kot bizin.","[NAME], tu dimunn pa tape boss.. Dan 1 koler ou kapav gat ou lavenir.. Bann droguer inkorizab sa.. Servi ou lenerzi kot bizin.",0.0,0.0,True,correct
+test,Humain n race sovaz terrible...... Li pa kpv guet narien trankil........ Oken zanimo pa kpv viv trankil akz humain......,Humain enn race sovaz terrible...... Li pa kapav get nanyin trankil........ Okenn zanimo pa kapav viv trankil akoz humain......,Humain enn race sovaz terrible...... Li pa kapav get nanyin trankil........ Okenn zanimo pa kapav viv trankil akoz humain......,0.0,0.0,True,correct
+test,Ki nou p nourri,Ki nu pe nouri?,Ki nu pe nouri?,0.0,0.0,True,correct
+test,Respect a vous le gars 🫡💯 get 1 dimoun so salte kuma ete et to pou kne kuma li ete li,Respect a vous le gars. 🫡💯 Get 1 dimunn so salte kuma ete et to pu kone kuma li ete li.,Respect a vous le gars. 🫡💯 Get 1 dimunn so salte kuma ete et to pu kone kuma li ete li.,0.0,0.0,True,correct
+test,SA KI P VEY LOR LILE MORIS LA?🤣🤣🤣😂Y A DU BEZ LA,SEKI PE VEYE LOR LIL MORIS LA?🤣🤣🤣😂Y A DU BEZ LA.,SEKI PE VEYE LOR LIL MORIS LA?🤣🤣🤣😂Y A DU BEZ LA.,0.0,0.0,True,correct
+test,Visit surprise selman tou journalist kner😐,Visit surprise selma tu journalist kone.😐,Visit surprise selma tu journalist kone.😐,0.0,0.0,True,correct
+test,Respect mo frere,Respect mo frere.,Respect mo frere.,0.0,0.0,True,correct
+test,"[NAME], kifr p donne half news kisanla zot p proteger","[NAME], kifer pe donne half news? Kisanla zot pe protez?","[NAME], kifer pe donne half news? Kisanla zot pe protez?",0.0,0.0,True,correct
+test,"Madam la calme.. Koz li kone revolver dimun pena meme sa... Toujour nu pe la.. Canard, chat pli important.. Law and order tout dans lordre liberte 2024","Madam la calme.. Koz li kone revolver dimunn pena mem sa... Tuzur nu pe la.. Canard, chat plis important.. Law and order tu dans lord liberte 2024.","Madam la calme.. Koz li kone revolver dimunn pena mem sa... Tuzur nu pe la.. Canard, chat plis important.. Law and order tu dans lord liberte 2024.",0.0,0.0,True,correct
+test,Madame pren ou piti amen ou lakaz,Madame pran ou piti amenn ou lakaz.,Madame pran ou piti amenn ou lakaz.,0.0,0.0,True,correct
+test,Ban poisson la pu rentre dan ZOT caraille la pa vine dir pu brûlé sa 😂😂😂,Bann poisson la pu rantre dan zot carail la pa vinn dir pu brûlé sa. 😂😂😂,Bann poisson la pu rantre dan zot carail la pa vinn dir pu brûlé sa. 😂😂😂,0.0,0.0,True,correct
+test,"Kan tapped coup de phare, sa veut dire ou p donne lot vehicle la priority. Van formula 1 sa","Kan tape kut de phare, sa veut dire ou pe donne lot vehicle la priority. Van formula 1 sa.","Kan tape kut de phare, sa veut dire ou pe donne lot vehicle la priority. Van formula 1 sa.",0.0,0.0,True,correct
+test,Lamour de largents trop for pou ban politicien pou zot ferme frontière,Lamour de larzan trop for pu bann politicien pu zot ferme frontière.,Lamour de larzan trop for pu bann politicien pu zot ferme frontière.,0.0,0.0,True,correct
+test,"Contrairement ar lezot pays kuma thailande et dubai, malaysie ici pna transport public ki dispo pu bane dimoune ki pna moyen transport de s'y rendre","Contrairement ar lezot pays kuma Thailande et Dubai, Malaysie ici pena transport public ki disponible pu bann dimunn ki pena moyen transport de s'y rande.","Contrairement ar lezot pays kuma Thailande et Dubai, Malaysie ici pena transport public ki disponible pu bann dimunn ki pena moyen transport de s'y rande.",0.0,0.0,True,correct
+test,Dapres lorde tn bisin gagne 1 ban gopia meme sa pou vin pren lesson ec ene bobok couma toi! 😑 Crypto king sanc.. Bez liki ale travail dow bachara,Dapre lord tonn bizin gagne 1 bann gopia mem sa pu vinn pran lesson ek enn bobok kuma toi! 😑 Crypto king sanse.. Bez liki ale travail dow batiara.,Dapre lord tonn bizin gagne 1 bann gopia mem sa pu vinn pran lesson ek enn bobok kuma toi! 😑 Crypto king sanse.. Bez liki ale travail dow batiara.,0.0,0.0,True,correct
+test,"[NAME], govt kinn dir sa couple la fer sa? Govt kinn avoy sa tifi la al fer babysitting kot sa couple? Hey mett seryer dow..😅","[NAME], guvernman kinn dir sa couple la fer sa? Guvernman kinn avoy sa tifi la ale fer babysitting kot sa couple? Hey met serye dow..😅","[NAME], guvernman kinn dir sa couple la fer sa? Guvernman kinn avoy sa tifi la ale fer babysitting kot sa couple? Hey met serye dow..😅",0.0,0.0,True,correct
+test,Bizin again mem sa,Bizin again mem sa.,Bizin again mem sa.,0.0,0.0,True,correct
+test,Vine lor mbc... Tappe lor la table.... Met en avant ou strategies...,Vinn lor MBC... Tape lor la table.... Met en avant ou strategies...,Vinn lor MBC... Tape lor la table.... Met en avant ou strategies...,0.0,0.0,True,correct
+test,Curepipe a Port Louis Rs 44 boss,Curepipe a Port Louis Rs44 boss.,Curepipe a Port Louis Rs44 boss.,0.0,0.0,True,correct
+test,Bien bizin ignore sa ban dimun la.,Bien bizin ignore sa bann dimunn la.,Bien bizin ignore sa bann dimunn la.,0.0,0.0,True,correct
+test,Kv p hésité pou met so nom tension représailles???😒🤐🤔,"Kapav pe hésité pu met so nom, tension représailles???😒🤐🤔","Kapav pe hésité pu met so nom, tension représailles???😒🤐🤔",0.0,0.0,True,correct
+test,Coupe lor permit a points sa?,Coupe lor permis a points sa?,Coupe lor permis a points sa?,0.0,0.0,True,correct
+test,Tousala dan pumpa😊😊🥺😋😋😂,Tusala dan pumpa.😊😊🥺😋😋😂,Tusala dan pumpa.😊😊🥺😋😋😂,0.0,0.0,True,correct
+test,"[NAME], boss bougue’la ine tap li avant la si, mone comprend bien. B li guetter meme?? Soi dire franc li capon line per lerla mo comprend","[NAME], boss, boug la inn tape li avant la si, mon comprend bien. B li get mem?? Soi dire franc li capon linn per lerla mo comprend.","[NAME], boss, boug la inn tape li avant la si, mon comprend bien. B li get mem?? Soi dire franc li capon linn per lerla mo comprend.",0.0,0.0,True,correct
+test,Pa facile la accidents lor accidents et grave chak jour... Ceki lor la route ein p vigilance pu zot mem et zot prochain,Pa facile la accidents lor accidents et grave sak jour... Seki lor la route enpe vigilance pu zot mem et zot prochain.,Pa facile la accidents lor accidents et grave sak jour... Seki lor la route enpe vigilance pu zot mem et zot prochain.,0.0,0.0,True,correct
+test,Madam la cool net li.,Madam la cool net li.,Madam la cool net li.,0.0,0.0,True,correct
+test,Si ena p croire sa bane prophètes sorti l'afrique la. P vine fer bel bel video pou fer dimune vine l'église zis pou baize cash morisien. Li a. C logik ki zot pa pou suive cryptoplok vous otre,Si ena pe croire sa bann prophètes sorti l'Afrique la. Pe vinn fer bel bel video pu fer dimunn vinn l'église zis pu bez cash Morisien. Li ase logik ki zot pa pu suive cryptoplok vous otre.,Si ena pe croire sa bann prophètes sorti l'Afrique la. Pe vinn fer bel bel video pu fer dimunn vinn l'église zis pu bez cash Morisien. Li ase logik ki zot pa pu suive cryptoplok vous otre.,0.0,0.0,True,correct
+test,Legumes couma coverture,Legim kuma coverture.,Legim kuma coverture.,0.0,0.0,True,correct
+test,Mo krwar fer 4em accident zordi... Ki p ariv kumsa dow...,Mo krwar fer 4eme accident zordi... Ki pe arrive kumsa dow...,Mo krwar fer 4eme accident zordi... Ki pe arrive kumsa dow...,0.0,0.0,True,correct
+test,"Apres kan pu trapEE pu batE, tpu gne ban dimoune vine laguer human rights.","Apre kan pu trape pu bate, to pu gagne bann dimunn vinn laguer human rights.","Apre kan pu trape pu bate, to pu gagne bann dimunn vinn laguer human rights.",0.0,0.0,True,correct
+test,Ki mo bizin faire,Ki mo bizin faire?,Ki mo bizin faire?,0.0,0.0,True,correct
+test,Bez sa dan la Bank mem pena securite,Bez sa! Dan labank mem pena sekirite.,Bez sa! Dan labank mem pena sekirite.,0.0,0.0,True,correct
+test,"[NAME], b dire ou kamouad ale la peche dauphin la et li mange li, et basta","[NAME], b dire ou kamarad ale lapess dauphin la et li manze li, et basta.","[NAME], b dire ou kamarad ale lapess dauphin la et li manze li, et basta.",0.0,0.0,True,correct
+test,Pour fini fer center isolement bisin in gagn case sa,"Pour fini fer center isolement, bizin inn gagne case sa.","Pour fini fer center isolement, bizin inn gagne case sa.",0.0,0.0,True,correct
+test,Gran merci li pane touye innocent,Gran merci li pann touy innocent.,Gran merci li pann touy innocent.,0.0,0.0,True,correct
+test,Aret fer vilain do,Aret fer vilain dow.,Aret fer vilain dow.,0.0,0.0,True,correct
+test,Ki tinpi to fair ta,Ki pitin to fer ta?,Ki pitin to fer ta?,0.0,0.0,True,correct
+test,Moris couma dire to capave fer seki to envie et l'autorité pa trouve narien ena gros problème la,Moris kumadir to kapav fer seki to anvi et l'autorité pa truve nanyin. Ena gros problème la.,Moris kumadir to kapav fer seki to anvi et l'autorité pa truve nanyin. Ena gros problème la.,0.0,0.0,True,correct
+test,Rod clinik tujur... Pou ggne malaise la,Rode clinik tuzur... Pu gagne malaise la.,Rode clinik tuzur... Pu gagne malaise la.,0.0,0.0,True,correct
+test,"[NAME], li mem sa! Acoz li mem sa","[NAME], limem sa! Akoz limem sa.","[NAME], limem sa! Akoz limem sa.",0.0,0.0,True,correct
+test,Lerwa lion vin lareine 🐈,Lerwa lion vinn lareine. 🐈,Lerwa lion vinn lareine. 🐈,0.0,0.0,True,correct
+test,Negligence parental ena fois parents marche dan bord et tipti coter machine passer,Negligence parental. Ena fois parents marse dan bord et tipti kot machine passe.,Negligence parental. Ena fois parents marse dan bord et tipti kot machine passe.,0.0,0.0,True,correct
+test,Lin fou mo koir sa,Linn fou mo krwar sa.,Linn fou mo krwar sa.,0.0,0.0,True,correct
+test,Bzn mete la loi pou paye fine pou sa tou dimun bzn kpv servi plastic noir et mete zot salt nu bzn ena respect pou sa ban dimun ki pe ramasse nu dechet samem nu zenfan pou apran,Bizin met la loi pu peye finn pu sa. Tu dimunn bizin kapav servi plastic noir et met zot salte. Nu bizin ena respect pu sa bann dimunn ki pe ramasse nu dechet. Samem nu zanfan pu aprann.,Bizin met la loi pu peye finn pu sa. Tu dimunn bizin kapav servi plastic noir et met zot salte. Nu bizin ena respect pu sa bann dimunn ki pe ramasse nu dechet. Samem nu zanfan pu aprann.,0.0,0.0,True,correct
+test,"[NAME], merci li pas fine tap avec kiken","[NAME], merci li pas finn tape avec kiken.","[NAME], merci li pas finn tape avec kiken.",0.0,0.0,True,correct
+test,Maman soutire pitii la,Maman sutire piti la.,Maman sutire piti la.,0.0,0.0,True,correct
+test,"[NAME], aret fr sociable dow... 1 k kumsa p vine ft sosiabe pa met foto.","[NAME], aret fer sociable dow... 1 kas kumsa pe vinn fot sosiabe pa met foto.","[NAME], aret fer sociable dow... 1 kas kumsa pe vinn fot sosiabe pa met foto.",0.0,0.0,True,correct
+test,"[NAME], get twa get twa","[NAME], get twa, get twa.","[NAME], get twa, get twa.",0.0,0.0,True,correct
+test,"[NAME], tout figir gater😂🤣","[NAME], tu figure gate.😂🤣","[NAME], tu figure gate.😂🤣",0.0,0.0,True,correct
+test,Ressit 1 subject exam psac so consequence sa capav... Astere pensé ena 3 sujet capav ressit psac!!!!,Resit 1 subject exam PSAC so consequence sa kapav... Aster pense ena 3 sujet kapav resit PSAC!!!!,Resit 1 subject exam PSAC so consequence sa kapav... Aster pense ena 3 sujet kapav resit PSAC!!!!,0.0,0.0,True,correct
+test,Li tii soif 🤣🤣,Li ti soif. 🤣🤣,Li ti soif. 🤣🤣,0.0,0.0,True,correct
+test,Dan 4 ans nou pou tire zot. Maja karo... 4 ans vite vite passe sa,Dan 4 ans nu pu tire zot. Maja karo... 4 ans vite vite passe sa.,Dan 4 ans nu pu tire zot. Maja karo... 4 ans vite vite passe sa.,0.0,0.0,True,correct
+test,"[NAME], lor laplage si pa desan? 😝😝","[NAME], lor laplage si pa desan? 😝😝","[NAME], lor laplage si pa desan? 😝😝",0.0,0.0,True,correct
+test,Hey zom to 1 bon artist mais mo pas kon to problem... reprend twa bro,"Hey zom, to 1 bon artist mais mo pas kone to problem... reprend twa brother.","Hey zom, to 1 bon artist mais mo pas kone to problem... reprend twa brother.",0.0,0.0,True,correct
+test,"[NAME], diferrr 🤣🤣🤣🤣🤣🤣🤣","[NAME], dife. 🤣🤣🤣🤣🤣🤣🤣","[NAME], dife. 🤣🤣🤣🤣🤣🤣🤣",0.0,0.0,True,correct
+test,"[NAME], ki procedure boss should we donate one","[NAME], ki procedure boss? Should we donate one?","[NAME], ki procedure boss? Should we donate one?",0.0,0.0,True,correct
+test,Vini chachiii ou pu trV kuma bnla pu fer li ramas savonet la😏😏,"Vini chachi, ou pu truve kuma banla pu fer li ramasse savonet la.😏😏","Vini chachi, ou pu truve kuma banla pu fer li ramasse savonet la.😏😏",0.0,0.0,True,correct
+test,Sa oci ena!!!! 😱😱😱😱 🤦🏻‍♀️,Sa osi ena!!!! 😱😱😱😱 🤦🏻‍♀️,Sa osi ena!!!! 😱😱😱😱 🤦🏻‍♀️,0.0,0.0,True,correct
+test,To pu vini rod vot,To pu vini rode vote.,To pu vini rode vote.,0.0,0.0,True,correct
+test,Tiktok,TikTok.,TikTok.,0.0,0.0,True,correct
+test,B la ki zot pou fer avec sa bane poisson la?,B la ki zot pu fer avec sa bann poisson la?,B la ki zot pu fer avec sa bann poisson la?,0.0,0.0,True,correct
+test,Pas tardé pas tardé,"Pas tarde, pas tarde.","Pas tarde, pas tarde.",0.0,0.0,True,correct
+test,Pas écoute météo tous dimouns rest zot la caz pas sorti,Pas écoute météo. Tu dimunn reste zot lakaz pas sorti.,Pas écoute météo. Tu dimunn reste zot lakaz pas sorti.,0.0,0.0,True,correct
+test,"[NAME], merde 🤣","[NAME], merde. 🤣","[NAME], merde. 🤣",0.0,0.0,True,correct
+test,"Bizin conner ki faire après 9 ans, sa ki li pli bizin expliquer","Bizin kone kifer après 9 ans, seki li plis bizin eksplik.","Bizin kone kifer après 9 ans, seki li plis bizin eksplik.",0.0,0.0,True,correct
+test,Get zot zar pas pou travail,Get zot zar pas pu travail.,Get zot zar pas pu travail.,0.0,0.0,True,correct
+test,Non li ti fini payer li... Lerla lin al prnd.🫳,Non li ti fini peye li... Lerla linn ale pran.🫳,Non li ti fini peye li... Lerla linn ale pran.🫳,0.0,0.0,True,correct
+test,"[NAME], zt pa gentile zot zt complice ladn","[NAME], zot pa gentil zot, zot complice ladan.","[NAME], zot pa gentil zot, zot complice ladan.",0.0,0.0,True,correct
+test,BAn pena role,Bann pena role.,Bann pena role.,0.0,0.0,True,correct
+test,Bez kas ar tini suspense,Bez kas ar tini suspense.,Bez kas ar tini suspense.,0.0,0.0,True,correct
+test,Mo ti croire tw 1 cou🤣🤣🤣🤣🤣in vote zt tou🤣🤣🤣🤣mo esperé le pep art vote zt ek pravin.... Mo esperé nu resi aret r zot bne kkliki,Mo ti croire twa 1 kut🤣🤣🤣🤣🤣inn vote zottu🤣🤣🤣🤣mo espere lepep aret vote zot ek Pravin.... Mo espere nu resi aret ar zot bann kakaliki.,Mo ti croire twa 1 kut🤣🤣🤣🤣🤣inn vote zottu🤣🤣🤣🤣mo espere lepep aret vote zot ek Pravin.... Mo espere nu resi aret ar zot bann kakaliki.,0.0,0.0,True,correct
+test,Pa's faire cumsa,Pas faire kumsa.,Pas faire kumsa.,0.0,0.0,True,correct
+test,Besoin met la bank la so nom pour coner,Besoin met labank la so nom pour kone.,Besoin met labank la so nom pour kone.,0.0,0.0,True,correct
+test,Li ti fek al cote psychologue🤔,Li ti fek ale kot psychologue.🤔,Li ti fek ale kot psychologue.🤔,0.0,0.0,True,correct
+test,"[NAME], to en sécurité la bro","[NAME], to en sécurité la brother?","[NAME], to en sécurité la brother?",0.0,0.0,True,correct
+test,Alez corbeau blanc nou atane sa mem! 😜🤣,Ale corbeau blanc nu atann samem! 😜🤣,Ale corbeau blanc nu atann samem! 😜🤣,0.0,0.0,True,correct
+test,Ban magasins ki amene portables par centaines eski ena douniers qui laisse zot passé?,"Bann magasins ki amenn portables par centaines, eski ena douniers qui laisse zot passe?","Bann magasins ki amenn portables par centaines, eski ena douniers qui laisse zot passe?",0.0,0.0,True,correct
+test,Al demande chariter🤔,Ale demande charite.🤔,Ale demande charite.🤔,0.0,0.0,True,correct
+test,Cest ene bâtiment qui date sa style coloniale. Pareille comment la poste souillac cest ene bâtiment qui date lepoque chemin de fer,Se enn bâtiment qui date sa style coloniale. Pareil comment la poste Souillac se enn bâtiment qui date lepok chemin de fer.,Se enn bâtiment qui date sa style coloniale. Pareil comment la poste Souillac se enn bâtiment qui date lepok chemin de fer.,0.0,0.0,True,correct
+test,Bizin pas faire interview dans ban cas coumsa,Bizin pas faire interview dans bann cas kumsa.,Bizin pas faire interview dans bann cas kumsa.,0.0,0.0,True,correct
+test,Ban poisson ine perdi? 🥲😭😂 Ine saizi filet.. Mais kifr p enkr vend li??. Ladrogue p rntre pa trouv nnier?,Bann poisson inn perdi? 🥲😭😂 Inn saizi filet.. Mais kifer pe ankor vande li??. Ladrog pe rantre pa truve nanyin?,Bann poisson inn perdi? 🥲😭😂 Inn saizi filet.. Mais kifer pe ankor vande li??. Ladrog pe rantre pa truve nanyin?,0.0,0.0,True,correct
+test,[NAME] to sa pu to fail plusieurs fois.... Dix cou bizin payer même... La caisse govt rempli,[NAME] to sa pu to fail plusieurs fois.... Dix kut bizin peye même... La caisse guvernman rempli.,[NAME] to sa pu to fail plusieurs fois.... Dix kut bizin peye même... La caisse guvernman rempli.,0.0,0.0,True,correct
+test,"[NAME], jeudi fête😏😂","[NAME], jeudi fête.😏😂","[NAME], jeudi fête.😏😂",0.0,0.0,True,correct
+test,Depi kan appollo si végétarien zamais li ti était sa 😂😂😂,Depi kan appollo si végétarien zame li ti était sa. 😂😂😂,Depi kan appollo si végétarien zame li ti était sa. 😂😂😂,0.0,0.0,True,correct
+test,L'année ine changer! Toujours pas pou change sa bane ti mauvé manière la!,L'année inn change! Toujours pas pu change sa bann ti move manière la!,L'année inn change! Toujours pas pu change sa bann ti move manière la!,0.0,0.0,True,correct
+test,Ena le rat si la bas?,Ena le rat si laba?,Ena le rat si laba?,0.0,0.0,True,correct
+test,BOSS INN DIRE PE REDRESS MORIS,BOSS INN DIRE PE REDRESS MORIS.,BOSS INN DIRE PE REDRESS MORIS.,0.0,0.0,True,correct
+test,Saisi.....??? Pour comien jour ein..????,Saisi.....??? Pour komie jour ein..????,Saisi.....??? Pour komie jour ein..????,0.0,0.0,True,correct
+test,"Respect pou tous sa banne eboueurs sans zotte pay la malpropre. Dimounes aussi bizin conner organise zotte sallete,",Respect pu tusa bann eboueurs sans zot peyi la malpropre. Dimunn aussi bizin kone organise zot salte.,Respect pu tusa bann eboueurs sans zot peyi la malpropre. Dimunn aussi bizin kone organise zot salte.,0.0,0.0,True,correct
+test,Comier accidents zordi?,Komie accidents zordi?,Komie accidents zordi?,0.0,0.0,True,correct
+test,Samen pas pou ressi amen 3 credit,Samem pas pu resi amenn 3 credit.,Samem pas pu resi amenn 3 credit.,0.0,0.0,True,correct
+test,"[NAME], lerla li ava ress lakaz, consulté lakaz kan li lé","[NAME], lerla li ava res lakaz, consulté lakaz kan li lei.","[NAME], lerla li ava res lakaz, consulté lakaz kan li lei.",0.0,0.0,True,correct
+test,Kifer ine met foto lopital?,Kifer inn met foto lopital?,Kifer inn met foto lopital?,0.0,0.0,True,correct
+test,Reform so idea,Reform so idea.,Reform so idea.,0.0,0.0,True,correct
+test,"Bizin action, pas du blablabla","Bizin action, pas du blablabla.","Bizin action, pas du blablabla.",0.0,0.0,True,correct
+test,"[NAME], 😀 c'est le minimum, prison ferme pour homicide volontaire ti puu marii mieux","[NAME], 😀 c'est le minimum, prison ferme pour homicide volontaire ti pu mari mieux.","[NAME], 😀 c'est le minimum, prison ferme pour homicide volontaire ti pu mari mieux.",0.0,0.0,True,correct
+test,Maziner sa vouyou ti zet lacid lor ou zenfant lerla tibzain welcome li avc bouquet fleurs,Mazine sa vouyou ti zet lasid lor ou zanfan lerla ti bizin welcome li avec bouquet fleurs.,Mazine sa vouyou ti zet lasid lor ou zanfan lerla ti bizin welcome li avec bouquet fleurs.,0.0,0.0,True,correct
+test,"Pe fer grimace ena pas ouler ou zanfan lire zot tou prend leson carrer. Ens cash pou aster datas, alle food court bey prend leson. Vine grand dimoune","Pe fer grimace ena pas oule ou zanfan lire zottu prend lesson carrer. Ena cash pu aster datas, ale food court bey prend lesson. Vinn grand dimunn.","Pe fer grimace ena pas oule ou zanfan lire zottu prend lesson carrer. Ena cash pu aster datas, ale food court bey prend lesson. Vinn grand dimunn.",0.0,0.0,True,correct
+test,Mes sympathies mr.... Si ganja ti legalizer certain accident ti pu eviter.... Bku fim simik aprer pran volant dan sa morris la....🙏,Mes sympathies monsieur.... Si ganja ti legalize certain accident ti pu eviter.... Buku fim simik apre pran volant dan sa Moris la....🙏,Mes sympathies monsieur.... Si ganja ti legalize certain accident ti pu eviter.... Buku fim simik apre pran volant dan sa Moris la....🙏,0.0,0.0,True,correct
+test,"Vacances lecole inn fini, c la grande rentrer mo pe trouv. Somey in kac? Ena bann maison de retraite pe rod dimoun pou zwe domino pou fer letan pase. Ti pou bien bon pou toi","Vacances lekol inn fini, se la grande rantre mo pe truve. Somey inn kase? Ena bann maison de retraite pe rode dimunn pu zwe domino pu fer letan passe. Ti pu bien bon pu toi.","Vacances lekol inn fini, se la grande rantre mo pe truve. Somey inn kase? Ena bann maison de retraite pe rode dimunn pu zwe domino pu fer letan passe. Ti pu bien bon pu toi.",0.0,0.0,True,correct
+test,Tension boule viré,Tension boule vire.,Tension boule vire.,0.0,0.0,True,correct
+test,Tamtam,Tamtam.,Tamtam.,0.0,0.0,True,correct
+test,Enn accident fabrique sa😂😂😂🤣,Enn accident fabrique sa.😂😂😂🤣,Enn accident fabrique sa.😂😂😂🤣,0.0,0.0,True,correct
+test,Arret boire apres rouler do. Met la vie dimounes danger,Aret boire apre roule dow. Met lavi dimunn danger.,Aret boire apre roule dow. Met lavi dimunn danger.,0.0,0.0,True,correct
+test,Pou patients pas sauver,Pu patients pas sove.,Pu patients pas sove.,0.0,0.0,True,correct
+test,Bixin cuit so cari,Bizin cuit so kari.,Bizin cuit so kari.,0.0,0.0,True,correct
+test,Si zot dir be safe b kifer p met veille,"Si zot dir be safe, b kifer pe met veille?","Si zot dir be safe, b kifer pe met veille?",0.0,0.0,True,correct
+test,Ou bzn guete ou bien ek ou enfant ki concubin ou prn. Priorite ou enfant,Ou bizin get ou bien ek ou enfant ki concubin ou pran. Priorite ou enfant.,Ou bizin get ou bien ek ou enfant ki concubin ou pran. Priorite ou enfant.,0.0,0.0,True,correct
+test,"[NAME], no 15 to liyie cotter","[NAME], nimero 15, to lizye kote?","[NAME], nimero 15, to lizye kote?",0.0,0.0,True,correct

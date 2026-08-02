@@ -1,0 +1,7 @@
+{
+  "split": "validation",
+  "num_sentences": 1383,
+  "total_inference_seconds": 207.3849904537201,
+  "average_inference_seconds_per_sentence": 0.1499529938204773,
+  "sentences_per_second": 6.668756485096878
+}

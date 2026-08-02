@@ -1,0 +1,8 @@
+error_category,count
+spacing_error,845
+capitalization_error,745
+punctuation_error,675
+correct,400
+missing_word_error,119
+extra_word_error,87
+orthographic_or_word_choice_error,42

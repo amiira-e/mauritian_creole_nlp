@@ -11,3 +11,4 @@ ipython
 sentencepiece
 protobuf
 huggingface_hub
+seaborn

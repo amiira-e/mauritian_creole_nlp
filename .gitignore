@@ -49,4 +49,14 @@ data/data_versions/raw_fb_data.json
 data_preparation/*.bin
 data_preparation/lid.176.bin
 
-notebooks/ByT5/results/
+# ByT5 experiment 1
+notebooks/ByT5/results/byt5/checkpoints/
+notebooks/ByT5/results/byt5/best_model/
+
+# ByT5 experiment 2
+notebooks/ByT5/results_v2/byt5/checkpoints/
+notebooks/ByT5/results_v2/byt5/best_model/
+
+# ByT5 experiment 3
+notebooks/ByT5/results_v3/byt5/checkpoints/
+notebooks/ByT5/results_v3/byt5/best_model/

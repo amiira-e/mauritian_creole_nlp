@@ -1,0 +1,7 @@
+{
+  "split": "train",
+  "num_sentences": 11064,
+  "total_inference_seconds": 1632.9094581604004,
+  "average_inference_seconds_per_sentence": 0.14758762275491688,
+  "sentences_per_second": 6.775635932971113
+}

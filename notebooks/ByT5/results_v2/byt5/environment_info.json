@@ -1,0 +1,16 @@
+{
+  "experiment_name": "byt5_mauritian_creole_text_restoration",
+  "timestamp": "2026-08-01T12:05:56.744075",
+  "python_version": "3.12.3",
+  "platform": "Linux-6.8.0-134-generic-x86_64-with-glibc2.39",
+  "pytorch_version": "2.8.0+cu128",
+  "cuda_available": true,
+  "cuda_version": "12.8",
+  "model_name": "google/byt5-small",
+  "seed": 18,
+  "bf16_enabled": true,
+  "fp16_enabled": false,
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 1,
+  "gpu_capability": "(8, 9)"
+}

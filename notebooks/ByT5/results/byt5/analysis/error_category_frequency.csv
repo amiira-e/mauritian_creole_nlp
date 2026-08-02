@@ -1,0 +1,18 @@
+Error Category,Frequency
+correct,471
+punctuation_error;capitalization_error;spacing_error,355
+capitalization_error;spacing_error,133
+punctuation_error;spacing_error,123
+punctuation_error;capitalization_error;spacing_error;missing_word_error,94
+punctuation_error,44
+orthographic_or_word_choice_error,34
+punctuation_error;capitalization_error;spacing_error;extra_word_error,30
+punctuation_error;capitalization_error,25
+capitalization_error,22
+capitalization_error;spacing_error;extra_word_error,11
+capitalization_error;spacing_error;missing_word_error,9
+spacing_error;extra_word_error,9
+spacing_error;missing_word_error,9
+spacing_error,7
+punctuation_error;spacing_error;extra_word_error,4
+punctuation_error;spacing_error;missing_word_error,3
