@@ -1,7 +1,7 @@
 {
   "split": "test",
   "num_sentences": 1383,
-  "total_inference_seconds": 74.91131353378296,
-  "average_inference_seconds_per_sentence": 0.05416580877352347,
-  "sentences_per_second": 18.46183086051888
+  "total_inference_seconds": 76.34363770484924,
+  "average_inference_seconds_per_sentence": 0.05520147339468492,
+  "sentences_per_second": 18.11545849238664
 }

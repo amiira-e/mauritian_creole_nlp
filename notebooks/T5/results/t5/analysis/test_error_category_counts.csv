@@ -1,8 +1,8 @@
 error_category,count
-spacing_error,1048
-capitalization_error,863
-punctuation_error,707
-correct,238
-missing_word_error,229
-extra_word_error,125
+spacing_error,1006
+capitalization_error,811
+punctuation_error,701
+correct,277
+missing_word_error,226
+extra_word_error,93
 orthographic_or_word_choice_error,33

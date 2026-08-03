@@ -1,0 +1,21 @@
+split,input_text,prefixed_input,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories
+test,Meme Pas dans envelope?,restore Mauritian Creole text: Meme Pas dans envelope?,Mem pas dans envelope?,Mem pas dans envelope?,0.0,0.0,True,correct
+test,Li fer client fume bred mourom saaa,restore Mauritian Creole text: Li fer client fume bred mourom saaa,Li fer client fume bred mourom sa.,Li fer client fume bred mourom sa.,0.0,0.0,True,correct
+test,Linn roder linn ggner.....,restore Mauritian Creole text: Linn roder linn ggner.....,Linn rode linn gagne.....,Linn rode linn gagne.....,0.0,0.0,True,correct
+test,Eski pou ena lekol demain????? Svp,restore Mauritian Creole text: Eski pou ena lekol demain????? Svp,Eski pu ena lekol demain????? Svp.,Eski pu ena lekol demain????? Svp.,0.0,0.0,True,correct
+test,[NAME] einn?? Ki pou fer???,restore Mauritian Creole text: [NAME] einn?? Ki pou fer???,[NAME] ein?? Ki pu fer???,[NAME] ein?? Ki pu fer???,0.0,0.0,True,correct
+test,Ki rôle mama la?,restore Mauritian Creole text: Ki rôle mama la?,Ki rôle mama la?,Ki rôle mama la?,0.0,0.0,True,correct
+test,Espere li pa gn lagard de l'enfant,restore Mauritian Creole text: Espere li pa gn lagard de l'enfant,Espere li pa gagne lagard de l'enfant.,Espere li pa gagne lagard de l'enfant.,0.0,0.0,True,correct
+test,Met dimoune la so nom et ki labank sa,restore Mauritian Creole text: Met dimoune la so nom et ki labank sa,Met dimunn la so nom et ki labank sa.,Met dimunn la so nom et ki labank sa.,0.0,0.0,True,correct
+test,Faut voir pour croire,restore Mauritian Creole text: Faut voir pour croire,Faut voir pour croire.,Faut voir pour croire.,0.0,0.0,True,correct
+test,"Education in vin ene business, anyway!","restore Mauritian Creole text: Education in vin ene business, anyway!","Education inn vinn enn business, anyway!","Education inn vinn enn business, anyway!",0.0,0.0,True,correct
+test,"[NAME], ou ena raison","restore Mauritian Creole text: [NAME], ou ena raison","[NAME], ou ena raison.","[NAME], ou ena raison.",0.0,0.0,True,correct
+test,Station la vintage sa,restore Mauritian Creole text: Station la vintage sa,Station la vintage sa.,Station la vintage sa.,0.0,0.0,True,correct
+test,Sa ban minis la osi p kokin par million mai zamer trouve zot meT sa,restore Mauritian Creole text: Sa ban minis la osi p kokin par million mai zamer trouve zot meT sa,Sa bann minis la osi pe kokin par million me zame truve zot met sa.,Sa bann minis la osi pe kokin par million me zame truve zot met sa.,0.0,0.0,True,correct
+test,mari mal compren sa,restore Mauritian Creole text: mari mal compren sa,Mari mal konpran sa.,Mari mal konpran sa.,0.0,0.0,True,correct
+test,Bizin saute la main pa capav tolerer sa!!!,restore Mauritian Creole text: Bizin saute la main pa capav tolerer sa!!!,Bizin saute la main pa kapav tolere sa!!!,Bizin saute la main pa kapav tolere sa!!!,0.0,0.0,True,correct
+test,"[NAME], impossible pou faire comprend. Quand zotte proprietaire ene vehicle, zotte croire tous est permi","restore Mauritian Creole text: [NAME], impossible pou faire comprend. Quand zotte proprietaire ene vehicle, zotte croire tous est permi","[NAME], impossible pu faire comprend. Quand zot proprietaire enn vehicle, zot croire tu est permi.","[NAME], impossible pu faire comprend. Quand zot proprietaire enn vehicle, zot croire tu est permi.",0.0,0.0,True,correct
+test,Bizin met li dehor sa,restore Mauritian Creole text: Bizin met li dehor sa,Bizin met li deor sa.,Bizin met li deor sa.,0.0,0.0,True,correct
+test,Sa boug la mo ti ale get li. Li fine zis pran mo casse consultation et li fine dir moi ok bye,restore Mauritian Creole text: Sa boug la mo ti ale get li. Li fine zis pran mo casse consultation et li fine dir moi ok bye,Sa boug la mo ti ale get li. Li finn zis pran mo kas consultation et li finn dir moi ok bye.,Sa boug la mo ti ale get li. Li finn zis pran mo kas consultation et li finn dir moi ok bye.,0.0,0.0,True,correct
+test,Lontan pa tane li sa,restore Mauritian Creole text: Lontan pa tane li sa,Lontan pa tande li sa.,Lontan pa tande li sa.,0.0,0.0,True,correct
+test,To cone boussou?,restore Mauritian Creole text: To cone boussou?,To kone boussou?,To kone boussou?,0.0,0.0,True,correct
