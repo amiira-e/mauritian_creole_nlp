@@ -1,0 +1,7 @@
+{
+  "split": "validation_epoch_29",
+  "num_sentences": 1383,
+  "total_inference_seconds": 2.7307963371276855,
+  "average_inference_seconds_per_sentence": 0.0019745454353779363,
+  "sentences_per_second": 506.4456771077521
+}

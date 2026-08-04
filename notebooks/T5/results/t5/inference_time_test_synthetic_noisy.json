@@ -1,7 +1,7 @@
 {
   "split": "test_synthetic_noisy",
   "num_sentences": 1383,
-  "total_inference_seconds": 85.35707950592041,
-  "average_inference_seconds_per_sentence": 0.06171878489220565,
-  "sentences_per_second": 16.20252248560208
+  "total_inference_seconds": 93.17612171173096,
+  "average_inference_seconds_per_sentence": 0.06737246689206866,
+  "sentences_per_second": 14.842858605756705
 }

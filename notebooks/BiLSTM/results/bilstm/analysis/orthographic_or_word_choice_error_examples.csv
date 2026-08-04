@@ -1,7 +1,0 @@
-split,input_text,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories
-test,Ki rôle mama la?,Ki rôle mama la?,Ki rele mama la?,0.0625,0.25,False,orthographic_or_word_choice_error
-test,"[NAME], ou ena raison","[NAME], ou ena raison.","[NAME], ou enn raison.",0.045454545454545456,0.25,False,orthographic_or_word_choice_error
-test,Tro grenoir,Tro granoir.,Tro ggrenoi.,0.25,0.5,False,orthographic_or_word_choice_error
-test,Baron la drogue,Baron la drogue.,Baron la drogge.,0.0625,0.3333333333333333,False,orthographic_or_word_choice_error
-test,To pu vini rod vot,To pu vini rode vote.,To pu vini rodd vott.,0.09523809523809523,0.4,False,orthographic_or_word_choice_error
-test,Reform so idea,Reform so idea.,Reform so dide.,0.13333333333333333,0.3333333333333333,False,orthographic_or_word_choice_error

@@ -1,33 +1,33 @@
 {
   "training": {
-    "training_start_time": "2026-08-02T07:54:17.809147",
-    "training_end_time": "2026-08-02T08:02:51.052425",
-    "training_seconds": 513.2432758808136,
-    "training_minutes": 8.55405459801356,
-    "training_hours": 0.14256757663355935,
-    "best_epoch": 3,
-    "best_val_loss": 2.614373196255077,
-    "peak_gpu_memory_gb": 16.674538135528564
+    "training_start_time": "2026-08-04T12:42:07.950194",
+    "training_end_time": "2026-08-04T13:14:56.516452",
+    "training_seconds": 1968.566252231598,
+    "training_minutes": 32.8094375371933,
+    "training_hours": 0.5468239589532217,
+    "best_epoch": 29,
+    "best_val_loss": 0.17996734042059293,
+    "peak_gpu_memory_gb": 16.600263118743896
   },
   "inference_train": {
     "split": "train",
     "num_sentences": 11064,
-    "total_inference_seconds": 19.81434726715088,
-    "average_inference_seconds_per_sentence": 0.0017908846047677946,
-    "sentences_per_second": 558.3832689932915
+    "total_inference_seconds": 21.78702998161316,
+    "average_inference_seconds_per_sentence": 0.001969182030153033,
+    "sentences_per_second": 507.8250688293585
   },
   "inference_validation": {
     "split": "validation",
     "num_sentences": 1383,
-    "total_inference_seconds": 2.4794836044311523,
-    "average_inference_seconds_per_sentence": 0.001792829793514933,
-    "sentences_per_second": 557.7774329817722
+    "total_inference_seconds": 2.73170804977417,
+    "average_inference_seconds_per_sentence": 0.0019752046636111135,
+    "sentences_per_second": 506.2766499203063
   },
   "inference_test": {
     "split": "test",
     "num_sentences": 1383,
-    "total_inference_seconds": 2.4939827919006348,
-    "average_inference_seconds_per_sentence": 0.0018033136600872268,
-    "sentences_per_second": 554.5347002759518
+    "total_inference_seconds": 2.7484428882598877,
+    "average_inference_seconds_per_sentence": 0.0019873050529717194,
+    "sentences_per_second": 503.1940106551074
   }
 }

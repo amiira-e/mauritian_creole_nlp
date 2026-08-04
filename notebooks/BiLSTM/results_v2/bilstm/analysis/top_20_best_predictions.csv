@@ -1,0 +1,21 @@
+split,input_text,target_text,prediction,sentence_cer,sentence_wer,exact_match,error_categories
+test,"[NAME], 1 show sa. Zis pou couyone dimoune. Surtout ban militants coltar","[NAME], 1 show sa. Zis pu kuyon dimunn. Surtout bann militants coaltar.","[NAME], 1 show sa. Zis pu kuyon dimunn. Surtout bann militants coaltar.",0.0,0.0,True,correct
+test,Ferme ta guele conasse,Ferme ta guele conasse.,Ferme ta guele conasse.,0.0,0.0,True,correct
+test,Meme Pas dans envelope?,Mem pas dans envelope?,Mem pas dans envelope?,0.0,0.0,True,correct
+test,Tension boule viré.,Tension boule vire.,Tension boule vire.,0.0,0.0,True,correct
+test,Li fer client fume bred mourom saaa,Li fer client fume bred mourom sa.,Li fer client fume bred mourom sa.,0.0,0.0,True,correct
+test,Eski pou ena lekol demain????? Svp,Eski pu ena lekol demain????? Svp.,Eski pu ena lekol demain????? Svp.,0.0,0.0,True,correct
+test,[NAME] einn?? Ki pou fer???,[NAME] ein?? Ki pu fer???,[NAME] ein?? Ki pu fer???,0.0,0.0,True,correct
+test,Pren compte nu ban emergency food supply pendant carem😐,Pran compte nu bann emergency food supply pendant carem.😐,Pran compte nu bann emergency food supply pendant carem.😐,0.0,0.0,True,correct
+test,Ki rôle mama la?,Ki rôle mama la?,Ki rôle mama la?,0.0,0.0,True,correct
+test,Ena so cotée pervers ladan. Devek in fair kroir ok pou miam et in install li. Maintenant aboule le cash et teigne tou la eme,Ena so kote pervers ladan. Devek inn fer krwar ok pu miam et inn install li. Maintenant aboule le cash et teigne tu lamem.,Ena so kote pervers ladan. Devek inn fer krwar ok pu miam et inn install li. Maintenant aboule le cash et teigne tu lamem.,0.0,0.0,True,correct
+test,"[NAME], to kone ki la boutique sa","[NAME], to kone ki la boutique sa?","[NAME], to kone ki la boutique sa?",0.0,0.0,True,correct
+test,9 ans apres? Tight. Scénario peut être monter pièce par pièce par vengeance. Pas cave tout vr temps to rest trankil. Qui tone atane pendant 9 ans? P rode role sa. Next. Sinon ena cannard là-bas?,9 ans apre? Tight. Scénario peut être monte pièce par pièce par vengeance. Pas kapav tu vr tan to reste trankil. Qui tonn atann pendant 9 ans? Pe rode role sa. Next. Sinon ena cannard là-bas?,9 ans apre? Tight. Scénario peut être monte pièce par pièce par vengeance. Pas kapav tu vr tan to reste trankil. Qui tonn atann pendant 9 ans? Pe rode role sa. Next. Sinon ena cannard là-bas?,0.0,0.0,True,correct
+test,Bientôt cryptoplok pou ale ramasse savonnette 🤣😂,Bientôt cryptoplok pu ale ramasse savonnette. 🤣😂,Bientôt cryptoplok pu ale ramasse savonnette. 🤣😂,0.0,0.0,True,correct
+test,Ena le rat et mangoose si là-bas,Ena le rat et mangoose si là-bas.,Ena le rat et mangoose si là-bas.,0.0,0.0,True,correct
+test,Espere li pa gn lagard de l'enfant,Espere li pa gagne lagard de l'enfant.,Espere li pa gagne lagard de l'enfant.,0.0,0.0,True,correct
+test,Met dimoune la so nom et ki labank sa,Met dimunn la so nom et ki labank sa.,Met dimunn la so nom et ki labank sa.,0.0,0.0,True,correct
+test,Faut voir pour croire,Faut voir pour croire.,Faut voir pour croire.,0.0,0.0,True,correct
+test,Gajack paré,Gajack pare.,Gajack pare.,0.0,0.0,True,correct
+test,Clown 🤡,Clown. 🤡,Clown. 🤡,0.0,0.0,True,correct
+test,Dan so la tete ki ena sa boug la?! 🤣,Dan so latet ki ena sa boug la?! 🤣,Dan so latet ki ena sa boug la?! 🤣,0.0,0.0,True,correct

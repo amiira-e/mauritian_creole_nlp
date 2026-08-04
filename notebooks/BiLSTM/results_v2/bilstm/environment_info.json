@@ -1,0 +1,21 @@
+{
+  "experiment_name": "bilstm_mauritian_creole_text_restoration",
+  "timestamp": "2026-08-04T17:24:19.511738",
+  "python_version": "3.12.3",
+  "platform": "Linux-6.8.0-124-generic-x86_64-with-glibc2.39",
+  "pytorch_version": "2.8.0+cu128",
+  "cuda_available": true,
+  "cuda_version": "12.8",
+  "model_name": "char_bilstm_seq2seq_attention",
+  "seed": 18,
+  "device": "cuda",
+  "embedding_dim": 192,
+  "encoder_hidden_size": 384,
+  "decoder_hidden_size": 384,
+  "num_encoder_layers": 2,
+  "dropout": 0.3,
+  "teacher_forcing_ratio": 0.5,
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 1,
+  "gpu_capability": "(8, 9)"
+}

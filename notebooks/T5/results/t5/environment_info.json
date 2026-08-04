@@ -1,8 +1,8 @@
 {
   "experiment_name": "t5_mauritian_creole_text_restoration",
-  "timestamp": "2026-08-03T17:45:18.371956",
+  "timestamp": "2026-08-04T19:03:04.202250",
   "python_version": "3.12.3",
-  "platform": "Linux-6.8.0-134-generic-x86_64-with-glibc2.39",
+  "platform": "Linux-6.8.0-124-generic-x86_64-with-glibc2.39",
   "pytorch_version": "2.8.0+cu128",
   "cuda_available": true,
   "cuda_version": "12.8",

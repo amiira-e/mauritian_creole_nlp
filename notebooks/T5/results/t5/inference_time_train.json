@@ -1,7 +1,7 @@
 {
   "split": "train",
   "num_sentences": 11064,
-  "total_inference_seconds": 612.8281679153442,
-  "average_inference_seconds_per_sentence": 0.0553893861094852,
-  "sentences_per_second": 18.054000418480072
+  "total_inference_seconds": 647.1667857170105,
+  "average_inference_seconds_per_sentence": 0.058493021124097114,
+  "sentences_per_second": 17.096056602691604
 }
