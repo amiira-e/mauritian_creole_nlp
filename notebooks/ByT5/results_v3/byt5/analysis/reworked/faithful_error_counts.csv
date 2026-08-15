@@ -1,0 +1,10 @@
+error_category,count
+correct,488
+punctuation_error;capitalization_error,201
+punctuation_error,183
+punctuation_error;capitalization_error;other_difference,172
+other_difference,147
+punctuation_error;other_difference,133
+capitalization_error,31
+unclassified,21
+capitalization_error;other_difference,7

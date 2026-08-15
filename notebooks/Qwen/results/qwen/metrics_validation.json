@@ -1,0 +1,19 @@
+{
+  "cer": 0.06269452393085335,
+  "wer": 0.168206644490986,
+  "chrf": 87.2602937048579,
+  "exact_match": 0.31742588575560376,
+  "word_accuracy": 0.7504187604690117,
+  "punct_precision": 0.6638678433417238,
+  "punct_recall": 0.42894503938973066,
+  "punct_f1": 0.49733749360143237,
+  "punct_accuracy": 0.6382532017635943,
+  "capitalization_accuracy": 0.9810290108638158,
+  "capitalization_f1": 0.8054251434533125,
+  "split": "validation",
+  "num_examples": 1383,
+  "avg_generated_token_len": 29.604483007953725,
+  "avg_prompt_token_len": 115.06146059291396,
+  "extra_explanation_rate": 0.0,
+  "avg_response_reference_length_diff": -2.804049168474331
+}

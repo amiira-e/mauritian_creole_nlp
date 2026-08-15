@@ -1,0 +1,6 @@
+,prompt_token_len,prompt_token_len,prompt_token_len,prompt_token_len,response_token_len,response_token_len,response_token_len,response_token_len,full_token_len,full_token_len,full_token_len,full_token_len,prompt_response_token_ratio,prompt_response_token_ratio,prompt_response_token_ratio,prompt_response_token_ratio,label_mask_ratio,label_mask_ratio,label_mask_ratio,label_mask_ratio,is_truncated,is_truncated,is_truncated,is_truncated
+,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max
+split,,,,,,,,,,,,,,,,,,,,,,,,
+test,115.208,107.0,89,392,29.98,21.0,3,345,147.188,130.0,94,739,6.209,5.095,1.136,30.0,0.81,0.823,0.53,0.947,0.004,0.0,False,True
+train,114.948,107.0,88,459,29.692,21.0,2,412,146.64,130.0,93,841,6.174,5.048,1.036,45.0,0.81,0.822,0.508,0.957,0.003,0.0,False,True
+validation,115.061,107.0,88,414,29.782,21.0,2,334,146.844,130.0,92,746,6.198,5.048,1.144,44.0,0.81,0.822,0.532,0.957,0.002,0.0,False,True

@@ -1,0 +1,31 @@
+{
+  "training": {
+    "training_start_time": "2026-08-05T06:42:43.181052",
+    "training_end_time": "2026-08-05T07:26:24.935896",
+    "training_seconds": 2621.7548382282257,
+    "training_minutes": 43.69591397047043,
+    "training_hours": 0.7282652328411738,
+    "peak_gpu_memory_gb": 3.065178871154785
+  },
+  "inference_train": {
+    "split": "train",
+    "num_sentences": 11064,
+    "total_inference_seconds": 1536.7679436206818,
+    "average_inference_seconds_per_sentence": 0.13889804262659813,
+    "sentences_per_second": 7.199525501509883
+  },
+  "inference_validation": {
+    "split": "validation",
+    "num_sentences": 1383,
+    "total_inference_seconds": 197.39408469200134,
+    "average_inference_seconds_per_sentence": 0.14272891156326922,
+    "sentences_per_second": 7.006288978506765
+  },
+  "inference_test": {
+    "split": "test",
+    "num_sentences": 1383,
+    "total_inference_seconds": 194.84857654571533,
+    "average_inference_seconds_per_sentence": 0.1408883416816452,
+    "sentences_per_second": 7.097819365775663
+  }
+}

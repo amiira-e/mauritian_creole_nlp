@@ -1,0 +1,5 @@
+error_category,count
+correct,336
+capitalization_error,49
+punctuation_error,316
+capitalization_error;punctuation_error,418

@@ -1,0 +1,8 @@
+{
+  "total_parameters": 907081216,
+  "trainable_parameters": 18464768,
+  "trainable_percentage": 2.0356245586723736,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05
+}

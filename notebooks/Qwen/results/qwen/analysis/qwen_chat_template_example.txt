@@ -1,0 +1,19 @@
+PROMPT USED AT INFERENCE:
+<|im_start|>system
+You are a text normalization system for Mauritian Creole. Correct only spelling, orthographic variants, punctuation, and capitalization. Do not rewrite, paraphrase, translate, or change the meaning. Return only the corrected sentence.<|im_end|>
+<|im_start|>user
+Normalize the following text while preserving the original wording and meaning. Correct only spelling, orthographic variants, punctuation, and capitalization.
+
+Text: La dan zenfant ki victime femme bizin pran contre pas laisse zote peige'<|im_end|>
+<|im_start|>assistant
+
+
+FULL TRAINING TEXT:
+<|im_start|>system
+You are a text normalization system for Mauritian Creole. Correct only spelling, orthographic variants, punctuation, and capitalization. Do not rewrite, paraphrase, translate, or change the meaning. Return only the corrected sentence.<|im_end|>
+<|im_start|>user
+Normalize the following text while preserving the original wording and meaning. Correct only spelling, orthographic variants, punctuation, and capitalization.
+
+Text: La dan zenfant ki victime femme bizin pran contre pas laisse zote peige'<|im_end|>
+<|im_start|>assistant
+Ladan zanfan ki victime femme bizin pran kont pas laisse zot pyez'.<|im_end|>

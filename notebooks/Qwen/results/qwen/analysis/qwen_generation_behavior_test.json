@@ -1,0 +1,15 @@
+{
+  "num_outputs": 1383,
+  "extra_explanation_count": 0,
+  "extra_explanation_rate": 0.0,
+  "changed_by_cleanup_count": 0,
+  "changed_by_cleanup_rate": 0.0,
+  "split": "test",
+  "avg_prompt_token_len": 115.20751988430948,
+  "avg_generated_token_len": 29.702819956616054,
+  "avg_response_char_len": 89.14533622559652,
+  "avg_reference_char_len": 92.26174981923354,
+  "avg_response_reference_length_diff": -3.116413593637021,
+  "overlong_response_rate": 0.0014461315979754157,
+  "very_short_response_rate": 0.0014461315979754157
+}

@@ -12,3 +12,5 @@ sentencepiece
 protobuf
 huggingface_hub
 seaborn
+peft
+bitsandbytes>=0.46.1

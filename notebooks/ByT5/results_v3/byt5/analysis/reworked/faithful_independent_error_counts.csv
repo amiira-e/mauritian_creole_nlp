@@ -1,0 +1,5 @@
+error_type,count
+correct,488
+punctuation_error,689
+capitalization_error,411
+other_difference,459

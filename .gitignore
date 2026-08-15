@@ -77,3 +77,60 @@ notebooks/T5/results_v2/t5/best_model/
 
 # Temporary files
 *.swp
+
+# Model checkpoints and weights
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+
+# Training checkpoints
+**/checkpoints/
+**/checkpoint-*/
+
+# Model output directories
+**/best_model/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Generated prediction / dataset copies
+**/converted_data/
+**/predictions/
+**/synthetic_noisy_test_inputs.csv
+
+# Sentence-level analysis containing source/target/predicted text
+**/all_error_category_examples.csv
+**/faithful_error_analysis.csv
+**/other_unanalysed_differences.csv
+**/capitalization_punctuation_analysis.csv
+**/qwen_prompt_token_features_all_splits.csv
+
+# Large generated analysis files
+**/qwen_prompt_token_features_all_splits.csv
+
+# Older/duplicate experiment outputs
+notebooks/Qwen/results_v2/
+
+# Large tokenizer / adapter artifacts
+**/best_lora_adapter/
+
+# Sentence-level prediction/error outputs
+**/test_error_categories.csv
+**/test_error_categories_reworked.csv
+**/top_20_best_predictions.csv
+**/top_20_worst_predictions.csv
+**/results_/
+
+# Sentence-level T5 prediction/error outputs
+**/test_error_categories.csv
+**/top_20_best_predictions.csv
+**/top_20_worst_predictions.csv
+
+# Temporary result directories
+**/results_/
+**/t5_tokenization_examples.csv

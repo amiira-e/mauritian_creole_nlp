@@ -1,0 +1,19 @@
+{
+  "experiment_name": "qwen_mauritian_creole_text_restoration",
+  "timestamp": "2026-08-05T09:03:24.755563",
+  "python_version": "3.12.3",
+  "platform": "Linux-6.8.0-94-generic-x86_64-with-glibc2.39",
+  "pytorch_version": "2.8.0+cu128",
+  "cuda_available": true,
+  "cuda_version": "12.8",
+  "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+  "seed": 18,
+  "device": "cuda",
+  "use_4bit": true,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 1,
+  "gpu_capability": "(8, 9)"
+}
