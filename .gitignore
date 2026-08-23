@@ -134,3 +134,7 @@ notebooks/Qwen/results_v2/
 # Temporary result directories
 **/results_/
 **/t5_tokenization_examples.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/

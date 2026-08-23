@@ -1,0 +1,3 @@
+Dataset,Flagged predictions,Total predictions,Report
+clean,725,1900,api_mc_en_results/clean_residual_creole_flags.txt
+unclean,742,1900,api_mc_en_results/unclean_residual_creole_flags.txt

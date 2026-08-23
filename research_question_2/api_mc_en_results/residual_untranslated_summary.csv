@@ -1,0 +1,3 @@
+Dataset,Candidate source words,Residual untranslated words,Residual rate (%),Predictions with residual words,Total predictions
+Clean,26355,515,1.9540884082716752,382,1900
+Unclean,26868,773,2.8770284353133837,509,1900
