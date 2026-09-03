@@ -1,0 +1,6 @@
+﻿Outcome,Number,Percentage (%),Examples
+Residual words in both Clean and Unclean,265,13.95,"ID 10144: Clean = pour, zia, pays, zia; Unclean = zia | ID 3731: Clean = get; Unclean = pravine | ID 8051: Clean = to; Unclean = to"
+Residual words in Unclean only,244,12.84,"ID 1446: Unclean = pharr, in; Clean = none | ID 971: Unclean = fair; Clean = none | ID 6043: Unclean = bro; Clean = none"
+Residual words in Clean only,117,6.16,ID 2726: Clean = poison; Unclean = none | ID 12530: Clean = bus; Unclean = none | ID 2041: Clean = doctor; Unclean = none
+No residual words in either,1274,67.05,ID 3151: Clean = none; Unclean = none | ID 11034: Clean = none; Unclean = none | ID 3344: Clean = none; Unclean = none
+Total,1900,100.0,—

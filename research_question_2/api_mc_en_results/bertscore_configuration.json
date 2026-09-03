@@ -1,0 +1,10 @@
+{
+  "metric": "BERTScore",
+  "model": "microsoft/deberta-xlarge-mnli",
+  "device": "cuda",
+  "batch_size": 16,
+  "rescale_with_baseline": false,
+  "paired_N": 1900,
+  "comparison": "English API prediction against English human reference",
+  "source_used_by_metric": false
+}
