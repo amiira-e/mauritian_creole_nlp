@@ -1,0 +1,5 @@
+model_key,model_id,role,repo_exists,gated,licence,revision,parameter_count,architecture,chat_template_present,tokenizer_is_fast,status,error
+qwen3_4b_instruct,Qwen/Qwen3-4B-Instruct-2507,PRIMARY_1_NON_REASONING,False,UNKNOWN,,,,,,,UNVERIFIED,ModuleNotFoundError: No module named 'huggingface_hub'
+qwen3_4b_thinking,Qwen/Qwen3-4B-Thinking-2507,PRIMARY_2_REASONING,False,UNKNOWN,,,,,,,UNVERIFIED,ModuleNotFoundError: No module named 'huggingface_hub'
+phi4_mini_instruct,microsoft/Phi-4-mini-instruct,PRIMARY_3_INDEPENDENT_FAMILY,False,UNKNOWN,,,,,,,UNVERIFIED,ModuleNotFoundError: No module named 'huggingface_hub'
+gemma3_4b_it,google/gemma-3-4b-it,PRIMARY_4_INDEPENDENT_FAMILY,False,UNKNOWN,,,,,,,UNVERIFIED,ModuleNotFoundError: No module named 'huggingface_hub'

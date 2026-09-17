@@ -1,0 +1,54 @@
+[
+  {
+    "tag": "before_load",
+    "model_key": "qwen3_4b_instruct",
+    "utc": "2026-09-17T15:13:01.143815+00:00",
+    "gpu": [
+      {
+        "index": 0,
+        "free_gb": 24.84,
+        "allocated_gb": 0.0,
+        "reserved_gb": 0.0
+      }
+    ]
+  },
+  {
+    "tag": "before_load",
+    "model_key": "qwen3_4b_thinking",
+    "utc": "2026-09-17T15:13:01.423741+00:00",
+    "gpu": [
+      {
+        "index": 0,
+        "free_gb": 24.84,
+        "allocated_gb": 0.0,
+        "reserved_gb": 0.0
+      }
+    ]
+  },
+  {
+    "tag": "before_load",
+    "model_key": "phi4_mini_instruct",
+    "utc": "2026-09-17T15:13:01.676334+00:00",
+    "gpu": [
+      {
+        "index": 0,
+        "free_gb": 24.84,
+        "allocated_gb": 0.0,
+        "reserved_gb": 0.0
+      }
+    ]
+  },
+  {
+    "tag": "before_load",
+    "model_key": "gemma3_4b_it",
+    "utc": "2026-09-17T15:13:02.146299+00:00",
+    "gpu": [
+      {
+        "index": 0,
+        "free_gb": 24.84,
+        "allocated_gb": 0.0,
+        "reserved_gb": 0.0
+      }
+    ]
+  }
+]

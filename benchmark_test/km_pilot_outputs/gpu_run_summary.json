@@ -1,0 +1,117 @@
+{
+  "notebook": "km_hallucination_model_run_gpu.ipynb",
+  "version": "1.0.0-gpu-models-only",
+  "run_id": "RUN_20260916T130104Z_4376cdbd",
+  "started_utc": "2026-09-16T13:01:04.535374+00:00",
+  "finished_utc": "2026-09-16T13:01:05.233784+00:00",
+  "case_manifest_sha256": "UNKNOWN",
+  "dataset_sha256": "UNKNOWN",
+  "prompt_version": "UNKNOWN",
+  "load_strategy": "BF16_GPU",
+  "decoding": {
+    "do_sample": false,
+    "num_beams": 1,
+    "greedy": true,
+    "temperature": "unset",
+    "top_p": "unset",
+    "top_k": "unset"
+  },
+  "gpu": {
+    "cuda_available": true,
+    "device_count": 1,
+    "devices": [
+      {
+        "index": 0,
+        "name": "NVIDIA GeForce RTX 4090",
+        "total_vram_gb": 25.25,
+        "free_vram_gb": 24.84,
+        "capability": "8.9"
+      }
+    ],
+    "bf16_supported": true,
+    "torch_version": "2.8.0+cu128",
+    "cuda_version": "12.8"
+  },
+  "models_requested": [
+    "Qwen/Qwen3-4B-Instruct-2507",
+    "Qwen/Qwen3-4B-Thinking-2507",
+    "microsoft/Phi-4-mini-instruct",
+    "google/gemma-3-4b-it"
+  ],
+  "models_run": [],
+  "cases_planned": 0,
+  "responses_stored": 0,
+  "generations_this_session": 0,
+  "load_errors": [],
+  "run_errors": [],
+  "triage_classes": {},
+  "verification": [
+    {
+      "model_key": "qwen3_4b_instruct",
+      "model_id": "Qwen/Qwen3-4B-Instruct-2507",
+      "role": "PRIMARY_1_NON_REASONING",
+      "repo_exists": false,
+      "gated": "UNKNOWN",
+      "licence": null,
+      "revision": null,
+      "parameter_count": null,
+      "architecture": null,
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "UNVERIFIED",
+      "error": "ModuleNotFoundError: No module named 'huggingface_hub'"
+    },
+    {
+      "model_key": "qwen3_4b_thinking",
+      "model_id": "Qwen/Qwen3-4B-Thinking-2507",
+      "role": "PRIMARY_2_REASONING",
+      "repo_exists": false,
+      "gated": "UNKNOWN",
+      "licence": null,
+      "revision": null,
+      "parameter_count": null,
+      "architecture": null,
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "UNVERIFIED",
+      "error": "ModuleNotFoundError: No module named 'huggingface_hub'"
+    },
+    {
+      "model_key": "phi4_mini_instruct",
+      "model_id": "microsoft/Phi-4-mini-instruct",
+      "role": "PRIMARY_3_INDEPENDENT_FAMILY",
+      "repo_exists": false,
+      "gated": "UNKNOWN",
+      "licence": null,
+      "revision": null,
+      "parameter_count": null,
+      "architecture": null,
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "UNVERIFIED",
+      "error": "ModuleNotFoundError: No module named 'huggingface_hub'"
+    },
+    {
+      "model_key": "gemma3_4b_it",
+      "model_id": "google/gemma-3-4b-it",
+      "role": "PRIMARY_4_INDEPENDENT_FAMILY",
+      "repo_exists": false,
+      "gated": "UNKNOWN",
+      "licence": null,
+      "revision": null,
+      "parameter_count": null,
+      "architecture": null,
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "UNVERIFIED",
+      "error": "ModuleNotFoundError: No module named 'huggingface_hub'"
+    }
+  ],
+  "limits": [
+    "Triage emits CANDIDATES from string matching. It cannot detect a paraphrased invention, and it flags legitimate paraphrase as if it were unsupported.",
+    "No hallucination rate here is a finding. Human labels are required.",
+    "Blinding is imperfect: style, verbosity and thinking traces can identify a system.",
+    "Greedy decoding only; a single sample per case says nothing about variance.",
+    "Precision is an experimental variable: do not pool quantized and bf16 runs."
+  ]
+}

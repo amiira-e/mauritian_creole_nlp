@@ -1,0 +1,138 @@
+{
+  "notebook": "km_hallucination_model_run_gpu.ipynb",
+  "version": "1.0.1-gpu-models-only",
+  "run_id": "RUN_20260917T151255Z_bb0035ac",
+  "started_utc": "2026-09-17T15:12:55.820568+00:00",
+  "finished_utc": "2026-09-17T15:13:02.453978+00:00",
+  "case_manifest_sha256": "66265567a4fcd8b287765eacb2f03a6098ca7950bac143feae8f7b6bf62f496f",
+  "dataset_sha256": "f9c0e53d6b7931a098500185b574eef44d101edf79b8a6b356f0590f6963114d",
+  "prompt_version": "km-pilot-prompt-v1",
+  "load_strategy": "BF16_GPU",
+  "decoding": {
+    "do_sample": false,
+    "num_beams": 1,
+    "greedy": true,
+    "temperature": "unset",
+    "top_p": "unset",
+    "top_k": "unset"
+  },
+  "gpu": {
+    "cuda_available": true,
+    "device_count": 1,
+    "devices": [
+      {
+        "index": 0,
+        "name": "NVIDIA GeForce RTX 4090",
+        "total_vram_gb": 25.25,
+        "free_vram_gb": 24.84,
+        "capability": "8.9"
+      }
+    ],
+    "bf16_supported": true,
+    "torch_version": "2.8.0+cu128",
+    "cuda_version": "12.8"
+  },
+  "models_requested": [
+    "Qwen/Qwen3-4B-Instruct-2507",
+    "Qwen/Qwen3-4B-Thinking-2507",
+    "microsoft/Phi-4-mini-instruct",
+    "google/gemma-3-4b-it"
+  ],
+  "models_run": [],
+  "cases_planned": 5,
+  "responses_stored": 0,
+  "generations_this_session": 0,
+  "load_errors": [
+    {
+      "model_id": "Qwen/Qwen3-4B-Instruct-2507",
+      "model_key": "qwen3_4b_instruct",
+      "error": "ValueError: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_transfer`."
+    },
+    {
+      "model_id": "Qwen/Qwen3-4B-Thinking-2507",
+      "model_key": "qwen3_4b_thinking",
+      "error": "ValueError: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_transfer`."
+    },
+    {
+      "model_id": "microsoft/Phi-4-mini-instruct",
+      "model_key": "phi4_mini_instruct",
+      "error": "ValueError: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_transfer`."
+    },
+    {
+      "model_id": "google/gemma-3-4b-it",
+      "model_key": "gemma3_4b_it",
+      "error": "ValueError: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_transfer`."
+    }
+  ],
+  "run_errors": [],
+  "triage_classes": {},
+  "verification": [
+    {
+      "model_key": "qwen3_4b_instruct",
+      "model_id": "Qwen/Qwen3-4B-Instruct-2507",
+      "role": "PRIMARY_1_NON_REASONING",
+      "repo_exists": true,
+      "gated": false,
+      "licence": "apache-2.0",
+      "revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+      "parameter_count": 4022468096,
+      "architecture": "Qwen3ForCausalLM",
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "VERIFIED_HUB_LIVE",
+      "error": "tokenizer: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_t"
+    },
+    {
+      "model_key": "qwen3_4b_thinking",
+      "model_id": "Qwen/Qwen3-4B-Thinking-2507",
+      "role": "PRIMARY_2_REASONING",
+      "repo_exists": true,
+      "gated": false,
+      "licence": "apache-2.0",
+      "revision": "768f209d9ea81521153ed38c47d515654e938aea",
+      "parameter_count": 4022468096,
+      "architecture": "Qwen3ForCausalLM",
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "VERIFIED_HUB_LIVE",
+      "error": "tokenizer: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_t"
+    },
+    {
+      "model_key": "phi4_mini_instruct",
+      "model_id": "microsoft/Phi-4-mini-instruct",
+      "role": "PRIMARY_3_INDEPENDENT_FAMILY",
+      "repo_exists": true,
+      "gated": false,
+      "licence": "mit",
+      "revision": "cfbefacb99257ffa30c83adab238a50856ac3083",
+      "parameter_count": 3836021760,
+      "architecture": "Phi3ForCausalLM",
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "VERIFIED_HUB_LIVE",
+      "error": "tokenizer: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_t"
+    },
+    {
+      "model_key": "gemma3_4b_it",
+      "model_id": "google/gemma-3-4b-it",
+      "role": "PRIMARY_4_INDEPENDENT_FAMILY",
+      "repo_exists": true,
+      "gated": "manual",
+      "licence": "gemma",
+      "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+      "parameter_count": 4300079472,
+      "architecture": "Gemma3ForConditionalGeneration",
+      "chat_template_present": null,
+      "tokenizer_is_fast": null,
+      "status": "VERIFIED_HUB_LIVE",
+      "error": "tokenizer: Fast download using 'hf_transfer' is enabled (HF_HUB_ENABLE_HF_TRANSFER=1) but 'hf_transfer' package is not available in your environment. Try `pip install hf_t"
+    }
+  ],
+  "limits": [
+    "Triage emits CANDIDATES from string matching. It cannot detect a paraphrased invention, and it flags legitimate paraphrase as if it were unsupported.",
+    "No hallucination rate here is a finding. Human labels are required.",
+    "Blinding is imperfect: style, verbosity and thinking traces can identify a system.",
+    "Greedy decoding only; a single sample per case says nothing about variance.",
+    "Precision is an experimental variable: do not pool quantized and bf16 runs."
+  ]
+}
