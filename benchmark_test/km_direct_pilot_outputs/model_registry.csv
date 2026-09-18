@@ -1,0 +1,5 @@
+model_id,family,reasoning,key,status,revision,gated,private
+Qwen/Qwen3-4B-Instruct-2507,Qwen,non-thinking,qwen_instruct,VERIFIED_HUB_LIVE,cdbee75f17c01a7cc42f958dc650907174af0554,False,False
+Qwen/Qwen3-4B-Thinking-2507,Qwen,thinking,qwen_thinking,VERIFIED_HUB_LIVE,768f209d9ea81521153ed38c47d515654e938aea,False,False
+microsoft/Phi-4-mini-instruct,Phi,instruct,phi4_mini,VERIFIED_HUB_LIVE,cfbefacb99257ffa30c83adab238a50856ac3083,False,False
+HuggingFaceTB/SmolLM3-3B,SmolLM,dual-mode,smollm3,VERIFIED_HUB_LIVE,a07cc9a04f16550a088caea529712d1d335b0ac1,False,False

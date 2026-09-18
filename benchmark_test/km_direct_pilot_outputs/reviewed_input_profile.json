@@ -1,0 +1,30 @@
+{
+  "workbook_sha256": "befe1b547d0bd1d8280f4f1190e02a48387fc23b9ef175120be7523bd8c59934",
+  "rows_in_workbook": 951,
+  "approved_cases_loaded": 951,
+  "task_classes": {
+    "PIPELINE_CONTROL": 516,
+    "LINGUISTIC_DIAGNOSTIC": 435
+  },
+  "task_families": {
+    "answerability_abstention": 240,
+    "attribution": 109,
+    "evidence_grounded_qa": 107,
+    "explicit_claim_extraction": 96,
+    "exact_list_extraction": 60,
+    "conversational_grounding": 59,
+    "reply_relation_classification": 59,
+    "faithful_summarization": 49,
+    "reference_resolution": 48,
+    "evidence_supported_inference": 43,
+    "stance_uncertainty_summary": 43,
+    "placeholder_continuity": 34,
+    "missing_context_abstention": 3,
+    "source_overreach_probe": 1
+  },
+  "strata": {
+    "depth2": 379,
+    "depth1": 315,
+    "depth0": 257
+  }
+}

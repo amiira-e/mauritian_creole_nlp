@@ -1,0 +1,6 @@
+key,model_id,status,revision,gated
+smoke,Qwen/Qwen3-0.6B,VERIFIED_HUB_LIVE,c1899de289a04d12100db370d81485cdf75e47ca,False
+qwen_instruct,Qwen/Qwen3-4B-Instruct-2507,VERIFIED_HUB_LIVE,cdbee75f17c01a7cc42f958dc650907174af0554,False
+qwen_thinking,Qwen/Qwen3-4B-Thinking-2507,VERIFIED_HUB_LIVE,768f209d9ea81521153ed38c47d515654e938aea,False
+phi,microsoft/Phi-4-mini-instruct,VERIFIED_HUB_LIVE,cfbefacb99257ffa30c83adab238a50856ac3083,False
+gemma,google/gemma-3-4b-it,VERIFIED_HUB_LIVE,093f9f388b31de276ce2de164bdc2081324b9767,manual

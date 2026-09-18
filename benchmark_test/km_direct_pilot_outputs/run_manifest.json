@@ -1,0 +1,54 @@
+{
+  "notebook_version": "1.0-direct-reviewed-input",
+  "run_utc": "2026-09-18T08:41:07.197617+00:00",
+  "input_sha256": "befe1b547d0bd1d8280f4f1190e02a48387fc23b9ef175120be7523bd8c59934",
+  "approved_cases": 951,
+  "models": [
+    {
+      "model_id": "Qwen/Qwen3-4B-Instruct-2507",
+      "family": "Qwen",
+      "reasoning": "non-thinking"
+    },
+    {
+      "model_id": "Qwen/Qwen3-4B-Thinking-2507",
+      "family": "Qwen",
+      "reasoning": "thinking"
+    },
+    {
+      "model_id": "microsoft/Phi-4-mini-instruct",
+      "family": "Phi",
+      "reasoning": "instruct"
+    },
+    {
+      "model_id": "HuggingFaceTB/SmolLM3-3B",
+      "family": "SmolLM",
+      "reasoning": "dual-mode"
+    }
+  ],
+  "load_strategy": "BF16",
+  "run_models": true,
+  "run_automated_judge": true,
+  "case_limit": null,
+  "outputs": [
+    "methodology_summary.md",
+    "hallucination_by_model_task.png",
+    "cross_model_case_disagreement.csv",
+    "failure_label_by_task.csv",
+    "failure_by_model_and_task.csv",
+    "candidate_dimension_matrix.xlsx",
+    "candidate_dimension_matrix.csv",
+    "paired_case_completeness.csv",
+    "error_category_by_model.csv",
+    "model_summary.csv",
+    "categorized_model_outputs.parquet",
+    "automated_judgments.jsonl",
+    "automatic_evaluation.parquet",
+    "token_uncertainty.jsonl",
+    "model_outputs.jsonl",
+    "model_registry.csv",
+    "case_features.parquet",
+    "reviewed_input_profile.json",
+    "approved_cases.parquet",
+    "environment_report.json"
+  ]
+}
